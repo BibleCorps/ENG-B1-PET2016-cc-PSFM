@@ -1,6 +1,9 @@
-\id TIT
-\rem en:pet:57titpet.usfm [2016-07-08 17:40] (current)
+\id TIT ENG (P.SFM) - Plain English Translation (PET) © 2016 Yayasan Alkitab BahasaKita (Albata)
+\ide UTF-8
+\rem Version 20170802
+\h 
 \h Titus
+\toc1 Titus
 \toc3 Tit.
 \mt1 Paul’s letter to Titus
 \c 1
@@ -8,7 +11,7 @@
 \v 1-4 Dear Titus, my brother in the faith who is truly my spiritual son because we have the same faith.
 \p Greetings from Paul, a servant of God, and an apostle of Christ Jesus. I’ve been sent to help God’s people so that they believe in Christ more and more and know the true teaching. And that true teaching guides us so that we live according to the will of God. Because we believe and follow that true teaching, we’re certain that we have eternal life. God, who never lies, had promised that life to us before the world was created. Then at the proper time God who is also our Savior, revealed that life to the world through the Good News, and I’ve been entrusted with the task of spreading that news of salvation.
 \p I pray that God the Father and our Savior Christ Jesus will always be kind to you and watch over you so that you live calm under God’s protection!
-\s Titus’ work on Crete
+\s1 Titus’ work on Crete
 \p
 \v 5 I left you on the island of Crete so that you can finish the work that still needs to be done and can appoint some people in each city to become elders.
 \v 6 To be chosen to become an elder, that person must live blamelessly. He must be faithful to his wife and may not have more than one wife. His children must also be believers. They must not be known as children who can’t be managed or who are disobedient.
@@ -31,7 +34,7 @@
 \v 15 To people whose hearts are pure, all foods and objects are pure. But for those who are full of sin and don’t believe, nothing is pure. Their thinking has truly become evil and their consciences are already dirty.
 \v 16 They say that they know God but their actions don’t prove it. They refuse to obey God and aren’t able to do anything good. God hates their way of life.
 \c 2
-\s Obey the true teaching
+\s1 Obey the true teaching
 \p
 \v 1 However Titus, you must always teach the way of life which is according to the true teaching.
 \v 2 Teach the older men to control themselves, to live wisely and as people who can be respected. They must continue to believe the true teaching, sincerely love other, and always endure when facing difficulties.
@@ -53,7 +56,7 @@
 \p
 \v 15 These are the things you must tell them. Urge them to follow these things. And if they don’t obey, rebuke them. You have full authority to do that so don’t let anyone think that they can ignore you.
 \c 3
-\s The right way to live
+\s1 The right way to live
 \p
 \v 1 Brother, please remind all of the followers of Christ to always respect all the leaders of government, obey them and always be ready to do good.
 \v 2 Tell them not to slander other people but live in peace with everyone. They must also be gentle and polite to everyone.
@@ -83,7 +86,7 @@
 \v 9 But don’t get involved when people argue about Jewish teachings, for example if they argue about the names of their forefathers and also about the Law. Arguments about things like that aren’t useful and are unwise.
 \v 10 So if anyone causes division because he likes to argue, you must rebuke him up to two times so that he stops. If he keeps causing trouble, don’t have anything to do with him any more.
 \v 11 For you know that people like that are sinful and don’t follow the true teaching. Their sins prove that they’re wrong.
-\s Final instructions and greetings
+\s1 Final instructions and greetings
 \p
 \v 12 I will send Artemas or Tychicus to you. When one of them arrives, please come to me in Nicopolis quickly, Brother. I’ve decided to stay there for the winter.
 \p
@@ -92,3 +95,4 @@
 \p
 \v 15 Everyone who’s here with me sends you greetings. Give our greetings to the people who love us because we believe in Jesus.
 \p I pray that God will always be kind to all of you.\f + \fr 3:15 \fk all of you \ft From the last two words, it’s clear that Paul knows that it won’t be just Titus who reads this letter.\f*
+\mte9

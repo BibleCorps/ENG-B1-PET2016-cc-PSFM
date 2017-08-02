@@ -1,6 +1,9 @@
-\id 2PE
-\rem en:pet:622pepet.usfm [2016-07-08 17:40] (current)
+\id 2PE ENG (P.SFM) - Plain English Translation (PET) © 2016 Yayasan Alkitab BahasaKita (Albata)
+\ide UTF-8
+\rem Version 20170802
+\h 
 \h 2 Peter
+\toc1 2 Peter
 \toc3 2 Pet.
 \mt1 Peter’s second letter
 \c 1
@@ -9,7 +12,7 @@
 \p Greetings from Simon Peter, an apostle and servant of Christ Jesus.
 \p
 \v 2 Because each of you already knows God and our Lord Jesus, I pray that God will always be very kind to you and watch over you so that your lives are calm under His protection!
-\s The way we become certain of our own callings
+\s1 The way we become certain of our own callings
 \p
 \v 3 By His own power God has given us everything that we need to live lives according to His will. All those spiritual blessings were given to us because we truly know God who has called us according to His glory and kindness.
 \v 4 And through His glorious power and kindness He has promised many things to us that are very great and valuable. For through God’s promises we receive God’s Spirit Himelf and become one with Him. In that way we’re no longer bound by all kinds of sins that are caused by our evil desires. Those sins are controlling this world like a deadly disease that spreads.
@@ -22,7 +25,7 @@
 \p
 \v 10 For that reason, Brothers and Sisters, try even harder to do the seven things that I wrote about above. For in that way you will make certain that you’ve truly been called and chosen by God. For if you keep doing those things, you won’t fail to reach your heavenly goal, for sure.
 \v 11 In that way when you enter the eternal kingdom you’ll be welcomed with great joy by our Lord and King of Salvation, Christ Jesus.
-\s Our faith is based on God’s Word
+\s1 Our faith is based on God’s Word
 \p
 \v 12 For that reason I will keep reminding you of the things I mentioned, even though you already know and hold firmly to the true teaching that we’ve received from God.
 \v 13 As long as I’m still living in this body which is like a temporary tent, I feel responsible to keep reminding you of these things.
@@ -36,7 +39,7 @@
 \v 20 This is what’s important for us to remember, all of the prophecies written in the Holy Bible didn’t come from the prophets' own thoughts.
 \v 21 For they never told prophecies according to their own will, but they told their prophesies according to what they received from God’s Spirit.
 \c 2
-\s False teachers
+\s1 False teachers
 \p
 \v 1 Just like false prophets arose among God’s people in times past, the same is happening now. False teachers will rise up among you for sure. They’ll teach teachings that really lead astray, and they’ll even deny the Lord Jesus who died to set them free. In that way they’ll quickly bring destruction on themselves.
 \v 2 Many brothers and sisters in the faith will go astray and follow their way of life which is led by lusts. Then when other people who don’t yet believe in Christ see that, they’ll insult our teaching because they’ll assume that the false teaching is our teaching, of course.
@@ -65,7 +68,7 @@
 \v 21 For it’s better that we don’t yet know the teaching about how we are made right by God and are enabled to live in a holy way, than for us to know that teaching but reject it.
 \v 22 For that person will be like a dog or a pig in these two proverbs, “A dog that vomits will eat his vomit again.”\x + \xo 2:22 \xt Prov. 26:11\x* And “A pig who has been bathed and is clean will go back to bathing in the mud puddle.”
 \c 3
-\s Jesus will certainly return
+\s1 Jesus will certainly return
 \p
 \v 1 Brothers and Sisters whom I love, this is the second letter that I’ve written to you. Through these two letters I’m trying to help you to think honestly and remind you
 \v 2 about the news that was given by the prophets who were sent by God. And I also want to remind you about what was commanded by our Lord and Savior, which was delivered to you by all of us who were sent by Him.\f + \fr 3:2 \fk all of us who were sent by Him \ft Literally, “your apostles” can also be translated based on a broader meaning of ‘apostle’, which is “Christ’s messengers who gave the news to you.”\f*
@@ -90,3 +93,4 @@
 \p
 \v 17 So beloved Brothers and Sisters, because you already know that you should be careful! Don’t get trapped too in the mistakes of people who don’t live according to the Lord’s Word so that you no longer completely believe the true teaching which you previously held onto firmly.
 \v 18 But you should each be more mature and aware of God’s kindness to you and know our Lord and Savior Christ Jesus more and more. I pray that He alone will be glorified, both now and forever. Amen.
+\mte9

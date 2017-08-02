@@ -1,6 +1,9 @@
-\id 1JN
-\rem en:pet:631jnpet.usfm [2016-07-08 17:40] (current)
+\id 1JN ENG (P.SFM) - Plain English Translation (PET) © 2016 Yayasan Alkitab BahasaKita (Albata)
+\ide UTF-8
+\rem Version 20170802
+\h 
 \h 1 John
+\toc1 1 John
 \toc3 1 Jhn.
 \mt1 John’s first letter
 \c 1
@@ -9,7 +12,7 @@
 \v 2 It’s true that He who gives life was revealed to us, and we had many opportunities to see Him. Now we testify and give you a report about the One who gives eternal life, that is He who lived with God the Father from the beginning and was revealed by the Father to us.
 \v 3 So we're telling you what we’ve seen and heard so that we have a close relationship in our fellowship. And it isn’t just that we have a close relationship to each other, but we also have a close relationship with the Father and His Son, who is Christ Jesus.
 \v 4 Because of that we're writing this letter to you so that through that close relationship our joy will be complete.
-\s God forgives our sin
+\s1 God forgives our sin
 \p
 \v 5 And this is the message that we’ve heard from God’s Son and we’re now telling you. God is like light, and there’s no darkness in Him at all.
 \v 6 So if we say that we have a close relationship with God, yet we still live like people who are in darkness, it means we’re lying and aren’t carrying out the true teachings from God.
@@ -19,7 +22,7 @@
 \v 9 But if we admit our sins to God who is very just and faithful, then according to His promise He will definitely forgive us and cleanse our hearts from the evil things that we’ve done.
 \v 10 If one of our brothers says, “I’ve never sinned,” it’s as if he considers God to be a Liar, and obviously the true teachings from God haven’t found a place in his heart.
 \c 2
-\s Jesus our Advocate
+\s1 Jesus our Advocate
 \p
 \v 1 My children whom I love, I’m writing this letter to you so that none of you will commit sin. But if one of us does sin, we have an Advocate who defends us before the Father, that is Christ Jesus who always does what’s just.
 \v 2 Jesus surrendered Himself as the peacemaking sacrifice which wipes out all the sins of each of us so that God isn’t angry with us anymore. And His peacemaking sacrifice isn’t just to forgive our sins, but His sacrifice is sufficient to forgive everyone in the world who believes in Him.\f + \fr 2:2 \fk forgive... \ft Literally, “forgive... everyone in the world.” If translated literally, readers could think that everyone in the world has been forgiven whether or not they’ve become followers of Christ. The TSI translates this according to John’s emphasis in 1 John 5:9-13, John 3:16, and 1 John 3:23.\f*
@@ -28,7 +31,7 @@
 \v 4 But if someone says, “I know God” even though that person doesn’t obey His commands, he’s a liar. It’s clear that the true teaching from God doesn’t have a place in his heart yet.
 \v 5 But if we obey God’s teachings more and more, it’ll be more and more obvious that we love God perfectly. In that way we know that we’re truly one with Him.\x + \xo 2:5 \xt John 15:1-7; 1 Jn. 4:13-17\x*
 \v 6 If someone says that he lives in oneness with God, he should live like Christ Himself lived.
-\s Love the brothers and sisters in the faith
+\s1 Love the brothers and sisters in the faith
 \p
 \v 7 Brothers and sisters whom I love, what I’m writing you now isn’t a new command, it’s an old command. For the command that I’m stressing here is the teaching that we’ve all heard from the beginning.
 \v 8 But what I’m writing to you can be called a new command, because it’s truly obvious in the life of Christ and is obvious in all of our lives too. For that reason it’s clear that the darkness is disappearing, and the true light is now shining in our lives.
@@ -56,7 +59,7 @@
 \v 15 Let’s not love the evil in this world or anything at all that’s in this world. If anyone loves worldly things, he doesn’t love God the Father at all.
 \v 16 For everything that comes from the world keeps us far from God. Worldly traits are all the evil desires that come from our bodies, the desire to possess what we see with our eyes and the feeling of arrogance because of what we own. Those three traits don’t come from God but from this world.
 \v 17 Remember that this world and everything in it that people desire are headed for destruction. But a person who does the will of God will continue to live forever.
-\s Don’t follow false teachers
+\s1 Don’t follow false teachers
 \p
 \v 18 My children, the end of the age is already near. You’ve heard that the antichrist\f + \fr 2:18 \fk antichrist \ft The antichrist was called “the king of evil” by the Apostle Paul in 2 Thes. 2:3-12.\f* will appear. So it’s not surprising that many false teachers have now arisen who are actually messengers of the antichrist. From that we clearly know that we’ve already entered the end of the age.
 \v 19 Those false teachers have masqueraded as our members, of course, but they weren’t actually our members. If they had truly been our members, they would certainly have stayed with us. But when they left us, that proved that they weren’t actually our members.
@@ -76,7 +79,7 @@
 \v 28 So now my children whom I love, keep one with Christ so that when He returns we’ll welcome Him immediately without feeling afraid or ashamed.
 \v 29 We know that Christ always does what’s right. For that reason we can recognize those who have received new birth from God the Father by observing that they keep doing what’s right.
 \c 3
-\s We are God’s children
+\s1 We are God’s children
 \p
 \v 1 You should know that God’s love for us is so amazing that we’re called God’s children! And we are His children, of course. But people in this world can’t recognize our status as God’s children because they don’t know Christ.\f + \fr 3:1 \fk Christ \ft Literally, “Him”, which can also be interpreted as ‘God.’\f*
 \v 2 Brothers and Sisters whom I love, we’ve now become God’s children, but it isn’t clear what our state will be like later. However, we know that when Christ returns we’ll become like Him because we’ll see Him in His true state.
@@ -91,7 +94,7 @@
 \p
 \v 9 Whoever has received new birth from God the Father has become a child of God! And each of His children can’t possibly keep on sinning because the new life given to them by God is within them. Each of us who has received new birth from God can’t possibly keep sinning.
 \v 10 In that way the difference between we who are children of God and the children of the devil is obvious. The children of the devil don’t do what’s right and can’t possibly love us who’ve become God’s children.
-\s We should love each other
+\s1 We should love each other
 \p
 \v 11 This is the message that you’ve heard from the beginning: we should love each other.
 \v 12 Let’s not be like Cain who was the son of the devil and killed his younger brother. And why did he kill his younger brother? Because Cain did what was evil, whereas his younger brother did what was right.
@@ -110,7 +113,7 @@
 \v 23 And this is His command that I stress, we should believe in\f + \fr 3:23 \fk believe in \ft Literally, “believe in the name.” According to Jewish culture, at the time of Jesus ‘name’ meant the whole identity of Christ Jesus.\f* His Son Christ Jesus and love each other according to the command that Christ gave us.
 \v 24 We who keep obeying God’s commands remain one with God and God remains one with us. And we know that we’re still one with God if His Spirit which He gave us is still in us.
 \c 4
-\s Do not follow false teaching
+\s1 Do not follow false teaching
 \p
 \v 1 My beloved brothers and sisters, don’t quickly believe someone who claims that he has received his teaching or his prophecy from the Holy Spirit. But first you have to test his teaching or prophecy to know whether it’s really from the Holy Spirit or from another spirit. For there are already many false teachers and false prophets in the world.
 \v 2-3 This is one way to test if the Spirit of God is in someone. If a person admits “I believe that Jesus is the Christ\f + \fr 4:2 \fk Christ \ft See the footnote about the position of the name Christ in 1 John 2:22.\f* who has come from God into this world as a human with a normal body,” it means the spirit in him comes from God. But if a person doesn’t admit that, it means the spirit that’s in him isn’t from God. That person is a messenger of the antichrist.\f + \fr 4:2 \fk antichrist \ft See the footnote about the antichrist in 1 John 2:18.\f* And you know that the antichrist is coming and is already in this world.
@@ -118,7 +121,7 @@
 \v 4 So my beloved children, we are from God, and we’ve overcome those false teachers. For the spirit that’s in us is greater than the spirit of the antichrist\f + \fr 4:4 \fk spirit of antichrist \ft Literally ‘spirit’. Besides 'antichrist', there are those who interpret that this points to the devil.\f* which is now already in this world.
 \v 5 Those false teachers come from this world, and because of that their teachings agree with the thinking of worldly people. So only worldly people listen to them.
 \v 6 But we belong to God, so the people who know God listen to us, while those who don’t belong to God don’t listen to us. In that way we can know if a person has the Spirit of Truth which is God’s Spirit or a spirit that leads astray.
-\s Love is from God
+\s1 Love is from God
 \p
 \v 7 My beloved brothers and sisters, let’s love each other. For love is from God, and everyone who loves has received new birth from God and knows God.
 \v 8 If someone doesn’t love his brother in the faith, it means he doesn’t know God because God loves everyone.
@@ -140,14 +143,14 @@
 \v 20 If someone says, “I love God” but still hates his brother, he’s a deceiver. The person who doesn’t love his brother who is visible can’t possibly love God who’s invisible.
 \v 21 And of course God has given this commandment to us: whoever loves God has to love his brother too.
 \c 5
-\s The children of God are victorious over the evil in this world
+\s1 The children of God are victorious over the evil in this world
 \p
 \v 1 Everyone who believes that Jesus is the Christ\f + \fr 5:1 \fk Christ \ft See the footnote for 1 John 2:22.\f* has received new birth from God the Father. And everyone who loves the Father also loves each member of God’s family, that is everyone who has also received new birth from the Father.
 \v 2 This is how we know that we truly love each of the other children of God, if we love God and do His commands.
 \v 3 Loving God means that we obey His commands. And that isn’t too hard to do
 \v 4 because everyone who receives new birth from God is given the power to defeat the evil that’s in this world. And what makes us victorious over the evil in this world is that we believe completely in Jesus.
 \v 5 No one can defeat the evil in this world except for us who believe that Jesus is God’s Son.
-\s Our Savior came to earth as a human with a normal body
+\s1 Our Savior came to earth as a human with a normal body
 \p
 \v 6 Christ Jesus is the only one who has come to earth showing these two signs from God: the sign of water and the sign of blood.\f + \fr 5:6 \fk water, blood \ft There are those who interpret that John means the water of baptism when Jesus was baptized and the blood that was shed at the time of His death on the cross. But John was probably showing something that strengthened his teaching in 1 John 4:2-3 and 2 John 7. There are two good possibilities: 1) John meant the water that came out when Jesus was born and the blood of his crucifixion. 2) John meant the water and blood that came out when Jesus’ side was pierced with a spear after He was crucified. Notice the stress that John gives what happened in John 19:34-37. These two things show that Jesus had a normal human body. One false teaching in John’s time was that Jesus only looked like a human but didn’t have a body like normal humans.\f* Jesus didn’t show just the sign of water but the sign of blood also. And the Holy Spirit, who can always be believed, also testifies to us that Jesus came from God with a normal human body.
 \v 7 So God has given three true witnesses about Jesus,
@@ -155,7 +158,7 @@
 \p
 \v 9-11 Think about this. We usually believe it when a person tells about something that he himself has seen. But it’s even greater if the One who gives the testimony to us is God Himself! For the important things that God openly claims about His Son are summarized as follows: God has given eternal life to us and that eternal life is only given to people who are one with His Son. Everyone who believes in God’s Son is certain in his heart that these things are true. But whoever doesn’t believe in these things that God claims is saying that God is a Liar, because he refuses to believe God’s testimony about His Son.
 \v 12 Whoever has a close relationship with His Son has eternal life. But whoever doesn’t have a close relationship with God’s Son doesn’t have eternal life.
-\s Our assurance about eternal life
+\s1 Our assurance about eternal life
 \p
 \v 13 I’ve written this letter to you who believe in\f + \fr 5:13 \fk believe in \ft Literally, “believe in the name.” According to Jewish culture, at the time of Jesus “name” meant the whole identity of Christ Jesus.\f* God’s Son so that you know that you have eternal life now.
 \v 14 In that way we aren’t afraid anymore to come before God in prayer! If what we ask is according to His will, God will listen to and answer our prayers.
@@ -170,3 +173,4 @@
 \v 20 We know that God’s Son has come. He has given us understanding so that we know the true God. And we live as one with God because we are one with His Son Christ Jesus. He’s also the true God,\f + \fr 5:20 \fk true God \ft The New Testament acknowledges God the Father, God the Son and God the Holy Spirit— the Three-in-One, so Jesus is also worthy to be called God. See John 10:30; Rom.9:5\f* because He’s always worthy to be believed and is the source of eternal life.
 \p
 \v 21 My children whom I love, keep yourselves far away from all idols.
+\mte9

@@ -1,6 +1,9 @@
-\id 1CO
-\rem en:pet:471copet.usfm [2016-07-08 17:40] (current)
+\id 1CO ENG (P.SFM) - Plain English Translation (PET) © 2016 Yayasan Alkitab BahasaKita (Albata)
+\ide UTF-8
+\rem Version 20170802
+\h 
 \h 1 Corinthians
+\toc1 1 Corinthians
 \toc3 1 Cor.
 \mt1 1 Paul’s first letter to the church at Corinth
 \c 1
@@ -9,7 +12,7 @@
 \p Greetings from Paul, who was called by the will of God to be an apostle of Christ Jesus, and from Sosthenes our brother in the faith.
 \p
 \v 3 May God the Father and our Lord Christ Jesus always be kind to each of you and watch over you so that you live calmly under God’s protection!
-\s Paul gives thanks to God
+\s1 Paul gives thanks to God
 \p
 \v 4 I always give thanks to God because His kindness has clearly been given to you through Christ Jesus.
 \v 5 For you’ve been blessed in everything, enriched in all words and knowledge. This happened because you’re one with Jesus.
@@ -17,7 +20,7 @@
 \v 7 And as a result, you have all of the special abilities given by God’s Spirit while we wait for the coming of our Lord Christ Jesus.
 \v 8 Jesus will always strengthen you too so that you can endure to the end, so that you’ll be without fault on the day our Lord Christ Jesus comes.
 \v 9 God can always be trusted. He’s the one who called you to share in life with His Son Christ Jesus our Lord.
-\s A problem in the church at Corinth
+\s1 A problem in the church at Corinth
 \p
 \v 10 Brothers and Sisters, I sincerely ask you in the name of our Lord Christ Jesus that you be of the same mind so that there are no divisions among you. May you truly be one in heart and mind.
 \p
@@ -28,7 +31,7 @@
 \v 15 I’m thankful because now no one can say that you were baptized in my name.
 \v 16 (Of course I did baptize Stephanas’ family, but I don’t remember if I baptized anyone else.)
 \v 17 For Christ didn’t give me the task to baptize people but to tell the Good News. And He doesn’t want me to tell it with skillful speach in a worldly human way so that the spiritual power that’s in the message of Christ’s cross\f + \fr 1:17 \fk cross \ft Paul used the word ‘cross’ to illustrate the News of Salvation, especially Christ’s death to redeem man from God’s punishment for each of their sins.\f* is not worthless.
-\s God’s Power and Wisdom in Christ Jesus
+\s1 God’s Power and Wisdom in Christ Jesus
 \p
 \v 18 For the teaching about Christ’s cross looks stupid to people who are heading for destruction, but that teaching is the power of God to us who are saved.
 \v 19 This agrees with God’s Word where He says,
@@ -50,14 +53,14 @@
 \v 30 Now God Himself is the one who has made you one with Christ Jesus. And God is the One who has made Christ to be our source of wisdom. And Christ is the one who makes us right before God, and He has also made us pure, as well as freeing us from sin.
 \v 31 Therefore as it’s written in God’s Word, “The one who wants to express pride must only take pride in what the Lord has done and not take pride in himself!”\x + \xo 1:31 \xt Jer. 9:24; 2 Cor. 10:17\x*
 \c 2
-\s News about Christ Jesus who was crucified
+\s1 News about Christ Jesus who was crucified
 \p
 \v 1 In the same way, Brothers and Sisters, when I first told you the news of salvation which is God’s teaching that was previously kept secret from people, I didn’t use beautiful words or worldly wisdom to teach it.
 \v 2 For at that time, I had decided that as long as I was with you, I would forget all other teaching except Christ Jesus and His death on the cross.
 \v 3 And when I came, I was weak and trembling with fear.
 \v 4 Even though my teaching and my words weren’t wise words that could convince people, yet my teaching was strengthened by the Holy Spirit’s power.
 \v 5 And that’s good, because in that way your faith is based on God’s power alone, not on the wisdom of men.
-\s God’s Wisdom
+\s1 God’s Wisdom
 \p
 \v 6 But actually, when we’re with people who are spiritually mature, we do teach wisdom. But our wisdom doesn’t comes from this world and it also isn’t from the authorities of this world who will soon be destroyed.
 \v 7 We teach God’s wisdom, which was hidden from people in the past since the creation of the world. But now God has revealed that wisdom to us so that we can share in enjoying His glory.
@@ -79,7 +82,7 @@
 \q2 No one is able to give advice to Him.”\x + \xo 2:16 \xt Is. 40:13\x*
 \m For that reason, it’s really amazing that we, through His Spirit, are now given the ability to think like Christ!
 \c 3
-\s God’s wisdom does not lead to divisions in the church
+\s1 God’s wisdom does not lead to divisions in the church
 \p
 \v 1 Brothers and Sisters, I couldn’t speak to you before as if speaking to people who are already one with God’s Spirit. I was forced to speak to you as to people who were still controlled by their own desires, as if you were spiritual babies in the matter of following Christ.
 \v 2 The teaching that I gave you was like milk, not like solid food. I did that because you weren’t yet able to receive adult food. Even now you still aren’t ready to eat spiritual food like that,
@@ -108,7 +111,7 @@
 \v 22 Everything is ours - Paul, Apollos, Peter,\f + \fr 3:22 \fk Peter \ft Paul literally wrote Peter's name as Cephas, like it is in Hebrew.\f* this world, life and death, things that are present now and things that will come.
 \v 23 That’s true because we’re all Christ’s possessions, and Christ is God’s possession.
 \c 4
-\s Relationship of Christ’s apostles to the church
+\s1 Relationship of Christ’s apostles to the church
 \p
 \v 1 In that way, you should consider us to be Christ’s servants because God has entrusted us with the task of revealing His plan, which was kept secret from people in the past.
 \v 2 And a servant must show that he can truly be trusted.
@@ -136,7 +139,7 @@
 \v 20 For the work of God’s kingdom isn’t just a matter of human talk, but it’s a matter of God given authority!
 \v 21 So now it’s up to you alone to choose. Do you want me to come with a whip to control you? Or I can come with an attitude full of love and gentleness if you've begun to obey.
 \c 5
-\s Problem of conduct in the church
+\s1 Problem of conduct in the church
 \p
 \v 1 I’m really concerned with the news that there's very shameful immorality among you. And it’s a kind of immorality that never even happens among people groups who don’t know the Lord! For I hear that there’s a person who has taken his father’s wife.
 \v 2 It isn’t proper for you to be arrogant in this situation, and brag of being great people of God! It would be better for you to weep! Then the one who committed that sin has to be removed from your midst.
@@ -154,7 +157,7 @@
 \p
 \v 12-13 It isn’t our business to judge people who aren’t brothers in the faith. That’s God’s business. But you must control and be ready to judge people who’ve become members of the church. Like it’s written in the Lord’s Word, “Drive the evil person out from among you!”\x + \xo 5:12-13 \xt Deut. 22:21, 24\x*
 \c 6
-\s Overcoming problems between fellow brothers in the faith
+\s1 Overcoming problems between fellow brothers in the faith
 \p
 \v 1 I really don’t approve when lawsuits happen between you. And some of you dare to bring those cases to a judge who doesn’t believe in God! Why don’t you ask one of the brothers in the faith to resolve the cases that happen among you? That would be much better, because a brother in the faith has been purified by Christ, whereas judges from outside the church aren’t yet.
 \v 2 Don’t you know that God’s people are the ones who’ll judge this world? So, if you’ll judge this world, you can surely resolve small cases.
@@ -173,7 +176,7 @@
 \q1 drunkards, slanderers and swindlers.
 \m
 \v 11 And of course some of you used to live like that! But now you’ve been cleansed, made holy and made right before God by becoming one with our Lord Christ Jesus and God's Spirit.
-\s Use your body for the glory of God\x + \xo 6:11 \xt Gen. 2:24\x*
+\s1 Use your body for the glory of God\x + \xo 6:11 \xt Gen. 2:24\x*
 \p
 \v 12 Now there willcertainly be someone who says, “We followers of Christ are permitted to do anything and eat anything.” But I will answer that everything isn’t useful. And I don’t want to allow anything in my life to be the devil’s tool to control me.
 \v 13 For example, some say, “God gives food to fill the stomach, and the stomach was created to enjoy food.” I will answer that neither of those will enter heaven but will be destroyed by God. Because of that you must understand that our bodies weren’t created by God for committing immorality but were created for glorifying the Lord. And the Lord also cares about what we do to our bodies.
@@ -187,7 +190,7 @@
 \v 19 Don’t forget that each of our bodies is like the Most Holy Room for God’s Spirit, which is His Spirit that we’ve received from God and lives in each of us! It means that our bodies aren’t our own possessions anymore.
 \v 20 For we were bought back with a very high price, which is the blood of Christ. For that reason, let’s glorify God with our bodies.
 \c 7
-\s About marriage
+\s1 About marriage
 \p
 \v 1 Now I will talk about the things that you wrote to me about. Yes, I think it’s good if a man doesn’t have a wife and doesn’t have sexual relations with a woman.\f + \fr 7:1 \fk have a wife...with a woman \ft Literally, “touch a woman.” Paul is quoting from a letter from the Corinthian church.\f*
 \v 2 But because of the danger of immorality, it’s best for every man to have his own wife who will meet his sexual needs. In the same way, it’s best for every woman to have her own husband.\f + \fr 7:2 \fk meet...sexual needs \ft In Greek the words “have a wife” and “have a husband” are polite expressions that mean the sexual relation between a husband and wife.\f*
@@ -209,7 +212,7 @@
 \p
 \v 15 But if a husband or wife who doesn’t yet believe in Christ decides to divorce the brother or sister who’s a follower of Christ, let him or her divorce. If that happens, the brother or sister in the faith isn’t bound anymore. For God’s will is that we live calmly and peacefully with everyone.
 \v 16 This is the reason for my advice, we always hope that your husband or wife, who doesn’t believe, will later become a believer because of your example and be saved in the end.
-\s Live calmly in God’s eyes in the situation in which you were called by God
+\s1 Live calmly in God’s eyes in the situation in which you were called by God
 \p
 \v 17 I advise every believer to live according to this rule: continue to live in the same situation as when God called you to become a follower of Christ, which is the situation of life that God had given to you at that time. This is a principle that I teach in all the churches.
 \v 18 For example, if a man was circumcised at the time God called him to become a follower of Christ, he doesn’t need to cover up the sign of his circumcision. And if a man hasn’t yet been circumcised when he follows Christ, he doesn’t need to be circumcised.
@@ -220,7 +223,7 @@
 \v 22 A slave who wasn’t physically free when the Lord called him has become like a free man because he’s one with the Lord. In the same way, a person who was free when the Lord called him has really become Christ’s slave.
 \v 23 We’ve all been bought with a very high price, so, let’s not become servants of people!
 \v 24 So Brothers and Sisters, the rule is let’s all live calmly in God’s eyes in the same situation as when He called us to be Christ’s disciples.
-\s Question about marriage
+\s1 Question about marriage
 \p
 \v 25 And now I’m writing about young women who aren’t yet married.\f + \fr 7:25 \fk aren’t yet married \ft Literally, “virgin.”\f* I haven’t received a command from the Lord about this but I’m giving my opinion. And because the Lord’s great compassion was shown to me by Him, I think that this advice can be trusted.
 \v 26 Because we’re living in difficult times, I think it’s better for each of you to continue to live calmly in your present situation.
@@ -243,7 +246,7 @@
 \v 39 We need to remember that a woman is bound to her husband as long as her husband is alive. But if her husband dies, the woman is free to marry a man whom she likes. But she can only marry a man who fully believes in the Lord.
 \v 40 But it’s my opinion that the widow will be happier if she doesn’t marry again, and I think that God’s Spirit also agrees with my advice.
 \c 8
-\s Teaching about meat offered to idols
+\s1 Teaching about meat offered to idols
 \p
 \v 1 Now I’m writing about the leftover meat from animals which have been sacrificed to idols. Christians often feel that we all have knowledge about this. But we need to remember that knowledge often makes us arrogant. Whereas love is more important than knowledge, because love helps our brothers and sisters in the faith to grow.
 \v 2 If any of you thinks he has quite enough knowledge already, he doesn’t actually know anything!
@@ -262,7 +265,7 @@
 \v 12 In that way, you’ve sinned against your brother in the faith. When you set an example that causes a brother who’s weak to do what he considers to be sin, you’re also sinning in Christ’s sight.
 \v 13 So if the meat that I eat can cause my brother to fall into sin, I won’t eat meat again as long as I live! And I’m ready to stop eating meat forever so that I won’t make my brother in the faith sin.
 \c 9
-\s Rights as an apostle which aren’t used by Paul
+\s1 Rights as an apostle which aren’t used by Paul
 \p
 \v 1 I’m talking like that even though I’m free from obligations to anyone. I’m an apostle. I’ve seen Jesus our Lord. All of you are the result of my work as a representative of the Lord.
 \v 2 There may be other people who don’t accept me as an apostle, but certainly you accept me! For all of you are proof that I work with the Lord’s authority.
@@ -299,7 +302,7 @@
 \v 26 So I don’t run in this spiritual race like someone who runs without a certain goal. As another example of a different contest, I don’t act like a boxer whose half-hearted punches and blows don’t hit their target.
 \v 27 Instead, I’m like an athlete who purposefully takes part in harsh training so he can control his body and mind. I do that so that I won’t fail to receive the victory prize after I’ve urged other people to enter this spiritual race.
 \c 10
-\s Warning from the history of God’s people
+\s1 Warning from the history of God’s people
 \p
 \v 1 I’m telling you this, Brothers and Sisters, because I want you to be aware of what happened to our forefathers during Moses’ time. God protected them and led them by a cloud which moved ahead of them,\f + \fr 10:1 \fk cloud \ft There was a cloud which showed the Israelites the way out of Egypt and across the Red Sea during the day. See Ex. 13:20-22; 14:19-20.\f* and they walked on ground in the middle of the sea which had been split in two.
 \v 2 And when they were covered by the cloud and walked across the sea, it was like being baptized as followers of Moses.
@@ -327,7 +330,7 @@
 \v 20 But you should know that something offered to idols is actually an offering to evil spirits, not to God. And I don’t want you to take part in worshiping evil spirits!
 \v 21 Each of you must not drink from the Lord’s cup and then drink from the cup of evil spirits too. You can’t eat at the table of the Lord’s supper and then take part in the table of evil spirits too.
 \v 22 Or are you making the Lord jealous on purpose?!\f + \fr 10:22 \fk making the Lord jealous \ft Read Deut. 32:16, 17.\f* Do you think that you’re greater than Him?!
-\s Use your freedom to glorify God
+\s1 Use your freedom to glorify God
 \p
 \v 23 Once again, of course, some will respond, “We followers of Christ are allowed to do anything.” But I will answer that not all deeds are useful. There are things that are permitted but don’t strengthen the confidence of our brothers in the faith.
 \v 24 Let’s not just seek what’s best for ourselves but let’s try to do what’s best for our other brothers and sisters in the faith.
@@ -346,7 +349,7 @@
 \c 11
 \p
 \v 1 So follow my example, just as I also follow Christ’s example.
-\s Some instructions for men and women for worshipping together
+\s1 Some instructions for men and women for worshipping together
 \p
 \v 2 I’m very pleased that you always remember me and also keep following all of the teachings that I’ve given you!
 \v 3 But now I want to tell you this, the head over Christ is God. And the head over every man is Christ, and the head over every wife is her husband.
@@ -366,7 +369,7 @@
 \v 14 On the contrary, everyone knows that it isn’t proper for a man to have long hair like a woman.
 \v 15 However, long hair is the pride of women because long hair was given by God to women especially as a sign that each woman is under the leadership of her husband.\f + \fr 11:15 \fk as a sign... \ft Paul literally wrote “as protection.” The protection here isn’t the same as the word Paul used for “head covering” in verses 4-7. And verse 6 shows that a woman can’t consider that long hair is a replacement for a head covering. Even so, it’s interpreted that there is a similarity between the head covering and long hair in the Jewish culture of Paul’s day, which is that both are signs that the status of women in the church and in daily life is under the leadership of men. If a woman doesn’t have a husband yet, she’s under the leadership of her father.\f*
 \v 16 But regarding this teaching, if there’s anyone who insists on changing this custom, you should know that we, the apostles, teach only this, and the churches of God don’t have a different custom.
-\s The Lord’s Supper
+\s1 The Lord’s Supper
 \p
 \v 17 In the following matter, I can’t praise you, because your meetings don’t produce good things but bad things.
 \v 18 For first of all, I hear that when you get together there are still divisions among you. And I think that news is true.
@@ -390,7 +393,7 @@
 \v 33 For that reason, Brothers and Sisters, when you get together for the Lord’s Supper, be patient and wait for each other while taking turns so that you celebrate it in a proper and orderly way.
 \v 34 If someone is hungry, it would be best for him to eat at his home first so that the celebration together doesn’t become an opportunity for him to bring punishment on himself. And regarding your other questions, I’ll teach you about those when I come.
 \c 12
-\s Special abilities given by God’s Spirit
+\s1 Special abilities given by God’s Spirit
 \p
 \v 1 Now, Brothers and Sisters, I want you to understand about the special abilities that are given by God’s Spirit.
 \v 2 You yourselves remember that before you became believers, you let yourselves be influenced and led away to worship idols which aren’t alive and don’t speak.
@@ -405,7 +408,7 @@
 \v 9 To still another person that same Spirit gives miraculous certainty.\f + \fr 12:9 \fk miraculous certainty \ft This word in Greek is also translated as “faith’ or ‘fully believe’.\f* And that one Spirit also gives the ability to heal sick people.
 \v 10 And to another one of us, the Spirit gives the ability to do miracles also, and to another ability to prophesy, and to another the ability to determine if the news given comes from God’s Spirit or an evil spirit. God’s Spirit also gives the ability to another person to speak in various languages of the Spirit, and to yet another the ability to translate what was spoken in those languages of the Spirit.
 \v 11 The one and same Spirit of God does all of this! And He’s the one who determines what ability is given to each of our brothers or sisters in the faith.
-\s All believers are like the body of Christ
+\s1 All believers are like the body of Christ
 \p
 \v 12 So just the like the human body is only one but has many parts, in the same way we who are many are one body, which is the body of Christ.
 \v 13 So there’s no problem if our members are Jews or non-Jews, slaves or free people. Each of us has been baptised \f + \fr 12:13 \fk  baptized... \ft This verse has been translated according to the interpretation that Paul used the word ‘baptized’ with a spiritual meaning, in which God’s Spirit is illustrated twice as water, that is like the water of baptism and like the pure water which we have drunk. (John 1:33; Acts 1:5) But according to another interpretation, Paul used the word ‘baptized’ here not to illustrate something that has happened spiritually but with the meaning of one’s physical body being baptized in water. According to this interpretation, this verse can be translated as follows, when we were baptized in water, God’s Spirit unified us. So there's no longer a problem if our members are Jews or non-Jews, slaves or free people. When we believe in Christ, that one Spirit already lives inside each of us, as if we all drank the same pure water.\f* into that one Holy Spirit, as if we have each drunk pure water from the same cup. This means that the one Spirit has made all of us become like one body, the body of Christ.
@@ -437,7 +440,7 @@
 \v 29 So not every member is chosen to become an apostle or prophesy or teach. And not all of us can do miracles.
 \v 30 Not all of us have the ability to heal sick people or speak in different languages of the Spirit. And not everyone can translate what’s given in those languages of the Spirit.
 \v 31 But you should all long to receive the abilities that are most important.
-\s Loving is more important than all of the special abilities
+\s1 Loving is more important than all of the special abilities
 \p And now I will show you the best thing!
 \c 13
 \p
@@ -458,7 +461,7 @@
 \v 12 It’s like that with us too. It’s as if we’re looking into a blurry mirror now, but there’ll be a time later on when we’ll see clearly. Now my knowledge is incomplete, but there’ll be a time later on when I will understand everything in the greatest possible depth, just like God already knows me.
 \v 13 So these three things will always be important— faith, hope and love. But the most important of these three things is love!
 \c 14
-\s The special abilities God’s Spirit gives to strengthen the church
+\s1 The special abilities God’s Spirit gives to strengthen the church
 \p
 \v 1 For that reason, let’s always make love the priority. Then let's really try to receive the special abilities which are given by God’s Spirit, first and foremost the ability to prophesy.
 \v 2 I say this because people who have the special ability to speak in languages of the Spirit don’t usually communicate anything that can be understood by other people. Through God’s Spirit they speak to God alone about things that can only be understood by God.
@@ -498,7 +501,7 @@
 \v 23 Even so, if there are some people who’ve just entered a church meeting when you’re all speaking in different languages of the Spirit, they’ll think you’re crazy, of course.
 \v 24 But if you’re all prophesying and a person who doesn’t yet believe or understand enters your meeting, then your prophecies will reveal his sins to him, and he’ll feel judged by everything you say.
 \v 25 And the secrets that are in his heart will be revealed. In the end, he’ll kneel and worship God while confessing, “God is really with you.”
-\s Church meetings should be orderly in order to encourage each other
+\s1 Church meetings should be orderly in order to encourage each other
 \p
 \v 26 So Brothers and Sisters, here’s the conclusion of all this. When you get together, each of you should be involved according to your special ability, either bring a song or a lesson or give a revelation from God or speak in a language of the Spirit or interpret what’s communicated in a language of the Spirit. The goal of all of this has to be to encourage one another.
 \v 27 If there are some who are ready to speak in a language of the Spirit, then only two, or at most three people should be allowed. They should speak one by one, and there must be someone present who can translate what they communicate.
@@ -520,7 +523,7 @@
 \v 39 So Brothers and Sisters, ask the Lord sincerely that each of you be given the special ability to prophesy. And don’t forbid another brother in the faith to use his special ability to speak in a language of the Spirit.
 \v 40 But everything must be done in a good and orderly way.
 \c 15
-\s The most important things in the Good News
+\s1 The most important things in the Good News
 \p
 \v 1 And now Brothers and Sisters, I want to remind you about the Good News that I’ve given you. This is the news that you’ve received and still hold onto until now.
 \v 2 And through that news you’re gaining salvation, if you keep firmly believing what I told you! If not, then you became believers for no reason!
@@ -535,7 +538,7 @@
 \v 9 So I think of myself as the most lowly of all of the apostles. In fact, I’m not even worthy to be called an apostle because I persecuted God’s people before I believed in Jesus.
 \v 10 But I’ve become like I am now only because of God’s kindness. And it’s proven that I didn’t waste His kindness! For I work harder than the other apostles. But that isn’t because of my own strength or because I’m so zealous, rather it’s because of being motivated by God’s kindness which is in my heart.
 \v 11 So whether it was I or the other apostles who gave the news of salvation to you, that news is what we always tell, and that news is also what you’ve believed.
-\s We’ll live again after we die
+\s1 We’ll live again after we die
 \p
 \v 12 So, if we apostles always tell that Christ was made alive again after death, why do some of you say that we believers won’t be made alive again after death?
 \v 13 For if we aren’t made alive again after death, it means that Christ was never made to live again after death either.
@@ -563,7 +566,7 @@
 \v 32 Why was I willing to fight against very fierce people in Ephesus?! If we humans just die and aren’t made live again, then it’ll happen like this, “Let’s satisfy ourselves with food and drink because tomorrow we’ll die.”\x + \xo 15:32 \xt Is. 22:13, 56:12\x*
 \v 33 But don’t be deceived by people who talk like that because there’s a proverb that says, “If you associate with evil people, you’ll become like them later on!”
 \v 34 So be truly aware now, and don’t sin anymore! You should be ashamed because it’s clear that some of you don’t know God.
-\s What happens to our bodies when we’re made alive again
+\s1 What happens to our bodies when we’re made alive again
 \p
 \v 35 But there’s often the question, “How will dead people be made alive again? When we’re made alive, what will our bodies be like then?”
 \v 36 That’s a stupid question. The seed of a plant that’s planted first experiences death so that it can grow and live again.
@@ -598,13 +601,13 @@
 \p
 \v 58 For that reason, my beloved Brothers and Sisters, stand firm! Nothing should be allowed to shake your certainty! Give yourselves fully to the work of serving the Lord, because we know that with the Lord’s leading, whatever we do will never be worthless.
 \c 16
-\s Help for brothers and sisters in the faith
+\s1 Help for brothers and sisters in the faith
 \p
 \v 1 And now I want to give you instructions about the donation that is being collected for God’s people who are in the province of Judea. I want to give the same advice that I gave to the churches in Galatia.
 \v 2 Every Sunday,\f + \fr 16:2 \fk Sunday \ft Literally, “the first day of every week.”\f* each of you should set aside a sum of money from the income the Lord gives you. Collect that money and keep it safe so that you don’t need to collect anymore money when I come.
 \v 3 When I come, we’ll send some people that you choose to bring that gift to Jerusalem. They’ll also take an accompanying letter.
 \v 4 Or if you feel it’s best, I will also go with them.
-\s Paul’s plans
+\s1 Paul’s plans
 \p
 \v 5 On my way to visit you, I plan to go through the province of Macedonia.
 \v 6 I’ll probably stay with you for some time, even until the end of winter. That way, you can help me to continue my journey wherever I go,
@@ -616,7 +619,7 @@
 \v 11 So don’t let anyone put him down. But help him on his journey with the blessings that you have so that he can return to me safely. For I’m waiting for him along with the other brothers in the faith who’ll accompany him.
 \p
 \v 12 Now regarding our brother Apollos, I’ve truly urged him to visit you along with those other brothers, but he refuses to go now. He’ll look for a good opportunity to visit you.
-\s Paul finishes his letter
+\s1 Paul finishes his letter
 \p
 \v 13 Beware. Continue to believe completely in Christ. Fight bravely for Jesus and keep holding on to Him.
 \v 14 You should do everything out of love for one another.
@@ -638,3 +641,4 @@
 \v 23 I pray that the Lord Jesus will always be kind to you.
 \p
 \v 24 I love all of you who are one with Christ Jesus too.
+\mte9

@@ -1,6 +1,9 @@
-\id GAL
-\rem en:pet:49galpet.usfm [2016-07-08 17:40] (current)
+\id GAL ENG (P.SFM) - Plain English Translation (PET) © 2016 Yayasan Alkitab BahasaKita (Albata)
+\ide UTF-8
+\rem Version 20170802
+\h 
 \h Galatians
+\toc1 Galatians
 \toc3 Gal.
 \mt1 Paul’s letter to the church in the province of Galatia
 \c 1
@@ -12,7 +15,7 @@
 \v 3 I pray that God the Father and our Lord Christ Jesus will always be kind to each of you, and watch over you so that you live calmly under God’s protection!
 \v 4 According to the will of God the Father, Jesus has sacrificed Himself to erase our sins and save us from this evil age.
 \v 5 Give glory to God forever and ever! Amen!
-\s The Good News from God doesn’t change
+\s1 The Good News from God doesn’t change
 \p
 \v 6 I’m so amazed because in such a short time you’ve turned away from God, who called you because of His kindness to be at peace with Him through Christ! And now you’ve followed a new kind of ‘good news’,
 \v 7 which actually isn’t the Good News! That happened just because you were influenced by some people who want to change the original Good News about Christ.
@@ -20,7 +23,7 @@
 \v 9 I’m repeating and emphasizing what we’ve told you, whoever tells you good news about Christ that’s different than what you’ve received from us, should be thrown into the lake of fire!
 \p
 \v 10 It’s clear through what I’ve just written to you that I don’t change my teaching to please men’s hearts. I try to please the heart of God only! If I try to please man, it means I’m no longer Christ’s servant.
-\s How Paul was called by God to become an apostle
+\s1 How Paul was called by God to become an apostle
 \p
 \v 11 Brothers and Sisters, it’s important for you to know that the Good News that I tell doesn’t come from men.
 \v 12 For I didn’t receive that news about salvation from men, and I wasn’t taught by anyone. Christ Jesus Himself told me that Good News.
@@ -39,7 +42,7 @@
 \v 23 They had just heard this about me many times, “He who used to persecute us so harshly has now repented, and he is even telling the Good News that we have believed, that is the news of salvation, which he once tried to do away with!”
 \v 24 Then they praised God because of what God had done in me.
 \c 2
-\s The other apostles acknowledge Paul as an apostle
+\s1 The other apostles acknowledge Paul as an apostle
 \p
 \v 1 After fourteen years, I went to Jerusalem again with Barnabas. Titus went with us too.
 \v 2 I went there because God directly told me to go. At that time, I had the opportunity to explain in a personal way, to the most prominent people of the church there, about the Good News that I had told people who aren’t Jewish. I did that because I didn’t want all of my work to be considered useless, first of all in the Lord’s sight, but also in the sight of man.
@@ -53,13 +56,13 @@
 \v 8 For it has been proven that the God who gave Peter the special ability to be an apostle\f + \fr 2:8 \fk apostle \ft The root meaning of ‘apostle’ is ‘herald/announcer’ and ‘representative’.\f* to the Jewish people, also gave the same ability to me to be an apostle to people who aren’t Jewish.
 \v 9 So, when James, Peter and John, who were included in that group of prominent men, realized that this special task was given to me based on God’s kindness, they shook hands with Barnabas and I in agreement, “May you serve the people who aren’t Jews, and we’ll keep serving the people who are Jews.”
 \v 10 The one and only request that they made of us was that we remember our poor brothers and sisters in Jerusalem who need help. And from the beginning, I have always been ready to help them.
-\s Paul rebukes Peter
+\s1 Paul rebukes Peter
 \p
 \v 11 But when Peter visited Antioch, I felt it necessary to rebuke him directly because his behavior was wrong.
 \v 12 This is what happened: At the beginning of his visit to Antioch, he ate with people who weren’t Jewish. Then when a group sent by James arrived, Peter separated himself and distanced himself from the non-Jewish people. He didn’t want to offend the feelings of the Jewish group because the men in that group were those who insist on circumcising all of our brothers who aren’t Jewish.
 \v 13 Then some other Jews followed Peter’s way of just pretending to be good. They also stopped eating with the people who weren’t Jews who were present there, and even Barnabas was influenced.
 \v 14 So when I saw that their attitude wasn’t in agreement with the true teaching in the Good News about Christ, I directly rebuked Peter before them all, like this, “Even though you’re a Jew, just recently you behaved like a non-Jew when you associated with them. So it isn’t proper for you to associate with that group now who want to force non-Jews to live according to Jewish rules!”
-\s Jews and non-Jews are saved only through fully believing in Christ
+\s1 Jews and non-Jews are saved only through fully believing in Christ
 \p
 \v 15 Our\f + \fr 2:15-21 \fk Our (inclusive) \ft The Greek language doesn’t distinguish between ‘our’ inclusive and ‘our’ exclusive, so there are those who interpret that Paul’s words to Peter ended with the last word in verse 14 or verse 16 or verse 21. It's likely that verses 15-21 are still like what Paul told Peter and all of the people at the meeting in Antioch.\f* brothers and sisters who were born Jewish, including myself, have at times of course followed the tradition of the Jews by calling people who aren’t Jews ‘sinners’ because they don’t obey the Law.
 \v 16 But now we know that no man can be made right before God by obeying the Law. The only way to be made right before God is by believing in Christ Jesus, both for non-Jews and for Jews! Before now we who are Jews were evidently ‘sinners’ also, but now we have fully believed in Christ Jesus to be made right before God. It isn’t possible to be made right in God’s eyes by obeying the Law, because no one is able to obey the whole Law.
@@ -70,7 +73,7 @@
 \v 20 And I don’t control my life anymore, but Christ who lives in me does. I live my whole life in this worldly body only through faith in the Son of God, who loved me so much that He gave Himself to redeem me.
 \v 21 So I don’t want to turn away from God’s kindness, which we receive because of oneness with Christ, in order to return to trying to be made right before God based on the Law. For if we think that a person can be made right by obeying the Law, then Christ died to redeem us for no reason.
 \c 3
-\s We receive God’s promises only through fully believing and not because of our good deeds
+\s1 We receive God’s promises only through fully believing and not because of our good deeds
 \p
 \v 1 Brothers and Sisters in Galatia, why are you so stupid!? How can you be deceived so quickly, even though I very clearly explained to all of you about how Christ Jesus died on the cross for us!
 \v 2 Just answer this question of mine: Did you receive the Holy Spirit because you obeyed the Law of Moses, or was the Holy Spirit given to you when you heard the news of salvation and believed in Christ?
@@ -126,7 +129,7 @@
 \p
 \v 6 So because we are His sons, He sent His Son’s Spirit into each of our hearts. Because of that, we cry out to God with all our hearts, “Oh, Abba, my Daddy,”\f + \fr 4:6 \fk Abba, my Daddy \ft “Abba” was a word from the daily Hebrew language (Aramaic language). That word is easy to express, like ‘Daddy’ in the English language and was used by little children.\f* because we pray according to the leading of Christ’s Spirit.
 \v 7 That’s proof that we’re no longer like slaves but are accepted as legitimate children of God. And as His children, we also have the right to inherit everything that has been promised to His children.
-\s Paul feels like a father who worries about his children
+\s1 Paul feels like a father who worries about his children
 \p
 \v 8 In general, you who are in Galatia aren’t Jewish. So before you knew God, you had become slaves to many different false gods which are idols and spiritual beings that are called divine beings, even though they aren’t.
 \v 9 That’s why it doesn’t make sense that you who’ve known God, and in fact whom He acknowledges as His children, turn back to become slaves to things that are weak and useless, even to the powers of darkness which rule this world!
@@ -141,7 +144,7 @@
 \v 18 Of course I’m happy if you’re inspired, but it has to be for a good thing, whether I’m there or not.
 \v 19 My beloved children, because I’m worried about you my emotion is like a mother suffering when giving birth to her child. Of course I’ve become your spiritual father, but I’m very burdened again because you aren’t yet mature in oneness with Christ!
 \v 20 Yes, because of that I long so much to be with you again! If we could talk, I would know if your thoughts about following that misleading teaching have changed or not. If so, that means I could stop urging you to repent.
-\s Hagar and Sarah are illustrations about the two promises of God
+\s1 Hagar and Sarah are illustrations about the two promises of God
 \p
 \v 21 Now let me speak to you who want to turn back and live under the Law again, when will you understand what’s written in the Book of the Law?!
 \v 22-23 For it’s written there that Abraham had two sons. The one son, Ishmael, was the son of a slave woman named Hagar. Ishmael was born as usual, according to the plan of man. Whereas the other son, Isaac, was the son of a free woman named Sarah. The birth of Isaac happened in an amazing way according to God’s promise to Abraham.
@@ -161,7 +164,7 @@
 \m
 \v 31 So Brothers and Sisters, I need to emphasize this. We aren’t like descendants of the slave woman who are obligated to live as slaves, but we’re like descendants of the woman who was free.
 \c 5
-\s We’ve been set free by Christ
+\s1 We’ve been set free by Christ
 \p
 \v 1 Christ has freed us from the obligation to live like slaves, so let us continue to be free! For that reason, stand strong and don’t return to living like slaves still bound by the Law.
 \p
@@ -177,7 +180,7 @@
 \p
 \v 11 Pay attention, Brothers and Sisters, if I change my teaching by teaching that each of our male organs must first be circumcised in order to be accepted by God, then I won’t be persecuted anymore by the Jewish people. But I teach that we’re made right before God only through what Christ did for us on the cross. That’s what has become a huge issue for them.
 \v 12 Circumcision alone isn’t enough for the teachers who have confused you. Each of them should cut off his whole sexual organ!
-\s Let’s live by depending on the Holy Spirit
+\s1 Let’s live by depending on the Holy Spirit
 \p
 \v 13 So Brothers and Sisters, we’ve been called by God to a life that’s free from the bonds of the Law. But let’s not use our freedom as an excuse to satisfy our bodily desires. Instead we must serve each other because we’re motivated by the bond of brotherly love.
 \v 14 For the whole law has been summed up in one command which is, “Love your fellowman like you love yourself.”\x + \xo 5:14 \xt Lev. 19:18; Matt. 22:39; Mark 12:31; Jas. 2:8\x*
@@ -208,7 +211,7 @@
 \v 25 We were given new life by God’s Spirit. For that reason, let’s keep living in obedience to the leading of the Holy Spirit too.
 \v 26 Let’s not become arrogant and say in our hearts, “I’m better than other brothers and sisters in the faith.” And don’t say directly to someone, “I’m better in the Lord’s eyes than you are!” And let’s not be envious thinking, “My brother in the faith has become greater in the church than me.”
 \c 6
-\s Live in brotherhood in the church
+\s1 Live in brotherhood in the church
 \p
 \v 1 Brothers and Sisters, if there’s someone within the church who’s known to have fallen into sin, then each of you whose lives are led by the Holy Spirit should lead him back to the right road. But do that with gentleness while continuing to guard yourself, so that you aren’t tempted to sin too.
 \v 2 Each of us should help to lighten the burdens of our brothers and sisters in the faith who experience weakness and trouble. In that way we obey the Law of Love given by Christ.\x + \xo 6:2 \xt John 13:34\x*
@@ -221,7 +224,7 @@
 \v 7-8 Don’t be mistaken! Don’t think that you can play games with God’s justice and righteousness! For sooner or later each of us will reap what we’ve planted. I mean that if you live only to satisfy your bodily desires, you’ll receive destruction. But if you live depending on the leading of God’s Spirit, you’ll receive eternal life.
 \v 9 So let’s not give up doing good deeds. For the time will come later on when we’ll reap the results if we don’t give up.
 \v 10 For that reason, every time we have the opportunity, let’s keep doing good to everyone, especially to our brothers and sisters in the faith.
-\s Final advice and closing words from Paul
+\s1 Final advice and closing words from Paul
 \p
 \v 11 In this last part, notice how big the letters are that I’m writing to you with my own hand.\f + \fr 6:11 \fk with my own hand \ft This also means that before this last part, there was a secretary who wrote what Paul said.\f*
 \v 12 Once again, in regard to our brothers and sisters who used to be of the Jewish religion and who force you to be circumcised, they don't do it to help you, but they do it to please other Jews and also so that they aren’t persecuted because of our teaching about man being made right before God only through Christ’s sacrifice on the cross.
@@ -234,3 +237,4 @@
 \v 17 From now on, I won’t care about people who criticize me by saying, “You don’t serve God as well as I do.” And I'll answer them, “These scars on my body are signs which prove that I’m owned by Jesus and serve Him!”
 \p
 \v 18 Brothers and Sisters, I pray that our Lord Christ Jesus will always be kind to each of you and will always be with you. Amen.
+\mte9

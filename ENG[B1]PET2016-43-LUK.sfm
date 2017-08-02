@@ -1,16 +1,19 @@
-\id LUK
-\rem en:pet:43lukpet.usfm [2016-08-26] (current)
+\id LUK ENG (P.SFM) - Plain English Translation (PET) © 2016 Yayasan Alkitab BahasaKita (Albata)
+\ide UTF-8
+\rem Version 20170802
+\h 
 \h Luke
+\toc1 Luke
 \toc3 Luke
 \mt1 The Gospel of Luke
 \c 1
-\s Luke’s introduction
+\s1 Luke’s introduction
 \p
 \v 1 Dear Mr. Theophilus,\f + \fr 1:1 \fk Theophilus \ft The name Theophilus means ‘person who loves God’ or ‘close friend of God's’. It’s possible that Luke wrote this Gospel as a report to a person whose name was Theophilus. But because of the meaning of that name, many interpreters think that Luke’s report was directed to everyone who loves God.\f* Many people have worked to write reports about the different events that happened among us.
 \v 2 They wrote their reports according to what they had been told by the people who witnessed these events for themselves from the beginning. Those eyewitnesses have served the Lord by telling that news everywhere.
 \v 3 So because I have very carefully investigated all of these events from the eyewitnesses since the beginning, I thought, “It would be good to write an orderly report to Mr. Theophilus.”
 \v 4 In that way, Sir, you’ll know that what you were taught is really true.
-\s The angel Gabriel tells about the birth of John the Baptist
+\s1 The angel Gabriel tells about the birth of John the Baptist
 \p
 \v 5 At the time Herod was ruling as king in the province of Judea under the government of the great king of Rome, there was a priest named Zechariah. He was one of the members of a group of priests that was named the Abijah group.\f + \fr 1:5 \fk Abijah group \ft The priests were divided into twenty-four groups to organize the times they had duties in God’s House each year. See 1 Chr. 24.\f* His wife’s name was Elizabeth. She also came from the descendants of Aaron, the first priest.
 \v 6 Zechariah and his wife's lives pleased God because they always lived right according to the will of God, that is they always obeyed all of the Lord’s commands and regulations without fault.
@@ -39,7 +42,7 @@
 \p
 \v 24 Not long after that his wife Elizabeth got pregnant. For five months Elizabeth didn’t go anywhere and didn’t show herself to other people
 \v 25 because she thought, “People have already insulted me for so long because of being barren. But the Lord has finally had compassion on me. So let people know that I’m pregnant when they see me!”
-\s The angel Gabriel tells Mary about the birth of Jesus
+\s1 The angel Gabriel tells Mary about the birth of Jesus
 \p
 \v 26-27 When Elizabeth was six months pregnant, God sent the angel Gabriel to a young virgin named Mary, who lived in the city of Nazareth, in the province of Galilee. Mary was engaged to Joseph, a descendant of David.
 \v 28 As soon as the angel arrived, he said, “Greetings! The Lord is really kind to you. He’s with you!”
@@ -58,7 +61,7 @@
 \v 37 Nothing is impossible for God.
 \p
 \v 38 Mary said, “I’m a lowly servant of the Lord. May what you’ve said happen to me.” Then the angel went and left her.
-\s Mary visits Elizabeth
+\s1 Mary visits Elizabeth
 \p
 \v 39 Not long after that, Mary hurried to get ready and went to a village in the mountain region of the province of Judea
 \v 40 to visit Elizabeth and Zechariah. When Mary went into their house she greeted Elizabeth.
@@ -67,7 +70,7 @@
 \v 43 Now I’ve received a very great honor because the mother who will give birth to my Lord has come to visit me.
 \v 44 For as soon as I heard your greeting, the child in my womb kicked for joy.
 \v 45 You’re so joyful because you believed that what the Lord told you will be fulfilled!”
-\s Mary praises God
+\s1 Mary praises God
 \p
 \v 46 Then Mary said,
 \q1 “I praise the Lord God with all my heart,
@@ -105,7 +108,7 @@
 \q2 and forever.”
 \p
 \v 56 Mary stayed with Elizabeth for about three months, and then she went home to Nazareth.
-\s John the Baptist is born
+\s1 John the Baptist is born
 \p
 \v 57 When her time was complete, Elizabeth gave birth to a boy.
 \v 58 Then all of her neighbors and relatives heard how the Lord had such compassion on Elizabeth, and they rejoiced with her.
@@ -120,7 +123,7 @@
 \v 64 And at that very moment Zechariah could speak again, and he began to praise God.
 \v 65 Their neighbors were all amazed and afraid. And the news about all of these events spread everywhere in the whole mountainous region of Judea.
 \v 66 Everyone who heard about these things asked in their hearts, “Will this child be an important person?” They asked that because the Lord was obviously with him.
-\s Zechariah praises God and prophesies
+\s1 Zechariah praises God and prophesies
 \p
 \v 67 Then Zechariah, John’s father, was filled with the Holy Spirit and prophesied like this,
 \q1
@@ -166,7 +169,7 @@
 \p
 \v 80 John grew bigger and his spirit grew strong. When he was old enough, he lived in the desert until the time came for him to reveal himself to the people of Israel.
 \c 2
-\s The birth of Christ Jesus
+\s1 The birth of Christ Jesus
 \r (Matt. 1:18-25)
 \p
 \v 1 At that time, the high king of the Roman kingdom named Augustus gave a command to hold a census of the residents of every Roman province, in order to make all residents pay taxes.
@@ -176,7 +179,7 @@
 \v 4-5 Because of that, Joseph went to register too. He went with Mary, his fiancee, from the city of Nazareth in the province of Galilee. Since Joseph was a descendant of David they went to the province of Judea, and to the city of Bethlehem, which is also called the “city of David.” Mary was pregnant at the time.
 \v 6 While they were there, the time came for Mary to give birth.
 \v 7 She gave birth to a Son, her firstborn Child. Mary wrapped Him with a long cloth diaper and laid Him in a wooden box for feeding cattle. They stayed there for a short time because it happened that all of the rooming houses were full at the time.
-\s The shepherds hear about Jesus
+\s1 The shepherds hear about Jesus
 \p
 \v 8 That night some shepherds were guarding their flocks of sheep in a field outside the city of Bethlehem.
 \v 9 An angel suddenly appeared before them. The light of the glory of the Lord shone around them, and they became very frightened.
@@ -197,12 +200,12 @@
 \v 20 Then the shepherds returned to their flocks, glorifying and praising God because of what they saw and heard. Everything was exactly as the angel had told them.
 \p
 \v 21 When the Child was one week old,\f + \fr 2:21 \fk one week \ft See the note in Luke 1:59.\f* He was circumcised and given the name Jesus, which is the name that the angel gave Him before Mary became pregnant with Him.
-\s The ceremony of Mary’s cleansing and surrendering of Jesus at God’s House in Jerusalem
+\s1 The ceremony of Mary’s cleansing and surrendering of Jesus at God’s House in Jerusalem
 \p
 \v 22 Forty days after Jesus was born, the time came for Mary and Joseph to give the sacrifice of cleansing at God’s House, like the Law of Moses commanded.\x + \xo 2:22 \xt Lev. 12:2-8\x* At that time, they also brought Jesus to Jerusalem and surrendered Him to God,
 \v 23 according to the regulations written in the Law of the Lord, “Every firstborn boy child has to be surrendered to the Lord.”\x + \xo 2:23 \xt Ex. 13:2, 12\x*
 \v 24 So while they were there, they also offered a sacrifice of “a pair of turtle doves or two young doves” as the requirement for Mary’s cleansing after giving birth, according to what the Law of the Lord specified.\x + \xo 2:24 \xt Lev. 12:8\x*
-\s Simeon prophesies about Jesus
+\s1 Simeon prophesies about Jesus
 \p
 \v 25-26 At the time there was a man in Jerusalem named Simeon. He was a man who lived right and wholeheartedly obeyed the Lord. The Holy Spirit was with him. He had already waited a long time for God to restore the people of Israel through the work of the Christ, like what was prophesied by the prophets. The Holy Spirit had shown him that he wouldn’t die before he saw the Christ.
 \v 27 So when Mary and Joseph took Jesus into the courtyard of God’s House to surrender their Son to the Lord, according to the regulations of the Law, the Holy Spirit had already moved in Simeon’s heart so that he entered the courtyard earlier.
@@ -223,15 +226,15 @@
 \v 33 Joseph and Mary were amazed to hear the things that Simeon said about their Son.
 \v 34 Then Simeon prayed that God would bless them. Then he said to Mary, “Listen! According to God’s plan, many people of Israel will fall and be punished by God through this Child. And many will also be made right before God through this Child. Even though He was sent by God, many people will reject Him.
 \v 35 And through Him, the thoughts that are in many people’s hearts will become obvious. And the time will come when your heart will feel pain as if it was stabbed by a sharp sword.”
-\s Hannah sees Jesus
+\s1 Hannah sees Jesus
 \p
 \v 36-37 There was also a female prophet there named Hannah, the daughter of Phanuel, from the tribe of Asher. Hannah was a widow who was very old, eighty four years old. When she had been married just seven years, her husband died.\f + \fr 2:37 \fk eighty four years old... \ft Many commentators say that what Luke wrote here can also be translated, “Hannah was very old. When she had been married just seven years, her husband died. And when this happened she had been a widow for eighty four years.” So according to that interpretation, Hannah’s age at that time might have been around 105 years.\f* After that Hannah was almost always in the courtyard of God’s House. She worshiped there day and night while praying and fasting.
 \v 38 At that time also, Hannah came into the courtyard and praised God. She spoke about that Child to the crowd that was there, who were longing for the moment God would send the Savior who was promised to free Jerusalem.\f + \fr 2:38 \fk free Jerusalem \ft The capital Jerusalem represents all of the land of Israel which at that time was under the power of the Roman kingdom. Under Roman rule, Israel was divided into the provinces of Judea and Galilee.\f*
-\s Joseph and Mary return to Nazareth
+\s1 Joseph and Mary return to Nazareth
 \p
 \v 39 After Joseph and Mary finished all of the regulations of the Lord’s Law, they returned to the city of Nazareth in the province of Galilee.
 \v 40 The Child grew bigger and stronger. He was full of wisdom, and the kindness of God was always with Him.
-\s Jesus’ childhood
+\s1 Jesus’ childhood
 \p
 \v 41 Every year, Jesus’ parents went to Jerusalem to join in the celebration of Passover.
 \v 42 When Jesus was twelve years old, they went to the celebration as usual.
@@ -248,7 +251,7 @@
 \v 51 Then He went home with them to Nazareth, and He always obeyed His parents. But His mother kept and meditated on all of those things in her heart.
 \v 52 Jesus grew older and wiser, as well as more pleasing before God and also before man.
 \c 3
-\s John the Baptist prepares God’s people for the coming of Jesus 
+\s1 John the Baptist prepares God’s people for the coming of Jesus 
 \r (Matt. 3:1-12; Mark 1:1-8; John 1:19-28)
 \p
 \v 1-2 When Tiberius’ had been the high king of the Roman kingdom for fifteen years, God led John, the son of Zechariah, to begin his ministry. At the same time,
@@ -291,16 +294,16 @@
 \v 16 John answered all of them, “I’m baptizing you with water, but a Man will come who has more authority than I do. I’m not worthy to serve Him, not even to untie the strings of His sandals. He’ll baptize you with the Holy Spirit and with fire.
 \v 17 Repent, because this world is like a field which is ready to be harvested, and the good produce will be separated from the bad! For He who is coming after me will judge this world and separate all of you who are evil from the righteous people. The righteous will live with Him, but all the evil people will be thrown into the fire of hell which will never be extinguished.\f + \fr 3:17 \fk verse 17 \ft Literally (with implicit information) could be translated like this, “The threshing tool and winnowing basket are already in His hands (illustrating punishment from God). After the harvest, (everyone in this world) He will use His tools to separate the wheat (illustrating good people) from the husks of the wheat and other dirt (illustrating evil people). Then He’ll keep the wheat in His storehouse, while He'll burn the rest in the fire which will never be extinguished.” What has been translated above as “threshing tool and winnowing basket” is literally a “cleaning tool,” which is like a shovel or large fork that’s used to separate the wheat from its outer husk. This verse can be compared with Rev. 14:14-20 and Matt. 25:31-46.\f*
 \v 18 John told the Good News to the crowd by giving much advice like that.
-\s John’s work ends
+\s1 John’s work ends
 \p
 \v 19 John rebuked King Herod because he had taken off with Herodiana, his brother’s wife,\f + \fr 3:19 \fk Herodiana... \ft This name is often written as ‘Herodias’. The spelling Herodiana was chosen so that it’s obvious that this is a woman’s name.\f* and because he had done other evil things too.
 \v 20 Then Herod added even more to his evil deeds by putting John in prison.
-\s John baptizes Jesus
+\s1 John baptizes Jesus
 \r (Matt. 3:13-17; Mark 1:9-11)
 \p
 \v 21 While John was baptizing the crowd, he also baptized Jesus. And while Jesus was praying the sky opened up,
 \v 22 and the Holy Spirit came down on Him in the form of a dove. Then a voice from the sky was heard which said, “You’re My Son whom I love very much, and You please My heart.”
-\s Geneology of Jesus
+\s1 Geneology of Jesus
 \r (Matt. 1:1-17)
 \p
 \v 23 Jesus was thirty years old when He started His work. People thought he was the son of Joseph.
@@ -396,7 +399,7 @@
 \q1 Seth was the son of Adam,
 \q1 and Adam was the son of God.
 \c 4
-\s Jesus is tested by the devil
+\s1 Jesus is tested by the devil
 \r (Matt. 4:1-11; Mark 1:12-13)
 \p
 \v 1 When Jesus left the Jordan River, God’s Spirit had filled Him. And God’s Spirit led Him to go and stay in the desert.
@@ -425,12 +428,12 @@
 \q1 ‘Don’t intentionally test the Lord your God by doing something that opposes His will.’”\x + \xo 4:12 \xt Num. 6:16\x*
 \m
 \v 13 After Jesus was tested in various ways like that, the devil went and left Him. But the devil was looking for another opportunity to test Him.
-\s Jesus teaches the crowd
+\s1 Jesus teaches the crowd
 \r (Matt. 4:12-17; Mark 1:14-15)
 \p
 \v 14 Then Jesus returned to Galilee. He was full of the Holy Spirit’s power, and the news about Him spread to the whole region.
 \v 15 He taught in the Jewish synagogues\f + \fr 4:15 \fk Jewish synagogues \ft In New Testament times, the synagogues were used as general meeting places for the local Jewish people and were also used as places for the Jewish people to pray and study God’s Word. The synagogues were different from God’s House, which was in the city of Jerusalem. Burned sacrifices were only done in God’s House, whereas synagogues were built in every city and village where the Jews lived.\f* which were there, and He was praised by everyone as being a good man.
-\s Jesus is rejected in the village He came from
+\s1 Jesus is rejected in the village He came from
 \r (Matt. 13:53-58; Mark 6:1-6)
 \p
 \v 16 Then Jesus went to Nazareth, the place He grew up. He went to the synagogue on the Sabbath Day as he usually did. Then He was given the opportunity to stand before the congregation to read God’s Word.
@@ -462,7 +465,7 @@
 \v 28 When they heard Jesus teach that, they realized that He wasn’t going to do any miracles for them. Then the crowd in that synagogue became very angry.
 \v 29 They stood up and chased Him out of the village. The city of Nazareth was built on a hill, so they drove Him to the edge of a cliff and wanted to push Him over the edge.
 \v 30 But Jesus just passed through the middle of them and left.
-\s Jesus drives an evil spirit out of a man of Capernaum
+\s1 Jesus drives an evil spirit out of a man of Capernaum
 \r (Mark 1:21-28)
 \p
 \v 31 Jesus went to Capernaum, a city in the province of Galilee. On the Sabbath Day He taught the people in the synagogue there.
@@ -473,7 +476,7 @@
 \p
 \v 36 Everyone there was very amazed and said to each other, “Wow! Jesus’ teaching is really extraordinary! Like a king who gives commands with full authority, Jesus orders the evil spirits to come out and they come out.”
 \v 37 So news about Jesus spread to the whole region and the surrounding area.
-\s Jesus heals many people
+\s1 Jesus heals many people
 \r (Matt. 8:14-17; Mark 1:29-34)
 \p
 \v 38 Jesus left the synagogue and went to Peter’s house.\f + \fr 4:38 \fk Peter \ft Literally, “Simon.”\f* Peter’s mother-in-law was sick with a high fever, and they asked Jesus to heal her.
@@ -481,14 +484,14 @@
 \p
 \v 40 When the sun began to set,\f + \fr 4:40 \fk When the sun began to set \ft The Sabbath Day for Jews started from the setting of the sun on Friday until the sun set on Saturday. So the residents of that city waited until the Sabbath Day was over so that they could bring sick people to Jesus. And before the sun set, Simon’s mother-in-law (in verse 39) served them with lunch which had been prepared before the Sabbath Day, because on the Sabbath Day they weren’t permitted to light a fire or cook.\f* every sick person in the city was brought to Jesus by their family members. He healed the sick people of whatever sickness they were suffering from by putting His hand on each of them.
 \v 41 And demons also came out of many people. The demons cried out, “You’re God’s Son!” But Jesus harshly rebuked them. He didn’t permit\f + \fr 4:41 \fk didn’t permit \ft One of the reasons Jesus didn’t permit the demons to say that He was God’s Son was that the demons weren’t the witnesses that He wanted. And maybe also because it wasn’t yet time for everyone to know that He was the Christ and the Son of God.\f* them to speak because they knew that He was the Christ.\f + \fr 4:41 \fk Christ \ft See the note in Luke 2:11.\f*
-\s Jesus goes to other cities
+\s1 Jesus goes to other cities
 \r (Mark 1:35-39)
 \p
 \v 42 The next morning Jesus went to a guiet place, but the crowd looked for Him. And when they found Him they tried to restrain Him so that He wouldn’t leave them.
 \v 43 But He said to them, “I have to take the Good News about God’s kingdom\f + \fr 4:43 \fk God’s kingdom \ft is the ‘rule of God’ over everyone who obeys Him. Just as Jesus obeyed the will of God to the point of surrendering Himself as a sacrificial offering, so each of God’s people must also surrender themselves to follow His will. (Mark 8:34; Rom. 10:9-10, 12:1-2). In that way we prove that we’ve become citizens of God’s kingdom and are worthy to receive everything God has promised to His chosen people since the beginning. When Jesus returns, God will rule in reality on this earth just as He always rules in heaven. See Dan. 7:13-14 and Matt. 6:10\f* to other cities too, because I was sent into this world for that reason.”
 \v 44 So he went and told the Good News in the synagogues in the province of Judea. 
 \c 5
-\s Peter, James and John follow Jesus
+\s1 Peter, James and John follow Jesus
 \r (Matt. 4:18-22; Mark 1:16-20)
 \p
 \v 1 One day, Jesus stood on the shore of Lake Galilee,\f + \fr 5:1 \fk Lake Galilee \ft Luke wrote the other name for the same lake which was “Gennesaret.”\f* and many people gathered and pushed against each other around Him because they wanted to hear His teaching about God’s Word.
@@ -507,7 +510,7 @@
 \p Then Jesus said to Simon, “Don’t be afraid! From now on you won’t be catching fish anymore but I'll teach you to catch people so that they become My followers.
 \p
 \v 11 After they pulled their boats up to the shore of the lake, they left everything and followed Him.
-\s Jesus heals a man suffering from a contagious skin desease
+\s1 Jesus heals a man suffering from a contagious skin desease
 \r (Matt. 8:1-4; Mark 1:40-45)
 \p
 \v 12 One day, Jesus was in a city where a man was living whose body was covered with a contageous skin disease.\f + \fr 5:12 \fk contageous skin disease \ft The skin disease that was meant was not the same as the disease that is now called “leprosy.” In Jesus’ time there was no treatment that could heal contagious skin diseases. According to the Law, everyone suffering from a skin disease like that was considered unholy. They couldn’t get close to healthy people, couldn’t enter the Jewish synagogues and had to live outside of the village or city. See Lev. 13.\f* When he saw Jesus, he knelt down to worship Him and begged, “Sir! If you want to, You can heal me.”
@@ -517,7 +520,7 @@
 \p
 \v 15 But the news about Jesus spread farther so that a crowd came thronging to hear Him and asked to be healed of their sicknesses.
 \v 16 But He often went alone to a quiet place to pray.
-\s Jesus heals a paralyzed man
+\s1 Jesus heals a paralyzed man
 \r (Matt. 9:1-8; Mark 2:1-12)
 \p
 \v 17 One day, Jesus was teaching a crowd. And there were also men there from the religious group called the Pharisees,\f + \fr 5:17 \fk group...Pharisees \ft this was a group of Jews who always maintained that all of Moses’ rules and all the rules added by the Jewish forefathers had to be followed carefully. Because of that, many of them bragged like this, “We’re the ones who are really pleasing in God’s sight.” For that reason too, most of them weren’t happy with Jesus because He didn’t join their group and they were jealous because many people followed Him.\f* and some Law experts.\f + \fr 5:17 \fk Law experts \ft See the footnote for Luke 2:46.\f* Those religious leaders had come from every city in the provinces of Galilee and Judea and from the city of Jerusalem. That day, the power of God was on Jesus to heal sick people.
@@ -533,7 +536,7 @@
 \p
 \v 25 At that very moment, the man stood up in front of them. He took his mattress and then went home praising God.
 \v 26 Everyone was really amazed and praised God. Full of respect and fear for God, they said, “Today we've witnessed extraordinary things!”
-\s Matthew follows Jesus
+\s1 Matthew follows Jesus
 \r (Matt. 9:9-13; Mark 2:13-17)
 \p
 \v 27 After that, Jesus went out and saw a government official who was sitting in his booth. The man's job was to collect taxes\f + \fr 5:27 \fk collect taxes \ft See note in Luke 3:12.\f* from the people to give to the Roman government. His name was Matthew.\f + \fr 5:27 \fk Matthew \ft Luke writes the other name for Matthew, which is “Levi.” We know him better now as Matthew, like it’s written in Matt. 9:9-13, 10:3.\f* Jesus said to him, “Come, and follow Me.”
@@ -544,7 +547,7 @@
 \p
 \v 31 Jesus answered them, “People who are healthy don’t need to go to a doctor. Sick people are the ones who need to go to a doctor.
 \v 32 It’s like that with Me too. I came to call sinful people to repent, not people who think that they're righteous!”
-\s Regarding fasting
+\s1 Regarding fasting
 \r (Matt. 9:14-17; Mark 2:18-22)
 \p
 \v 33 Then there were some people who said to Jesus, “John’s disciples often pray and fast. The members of the Pharisee group do too. But your disciples keep eating and drinking.”
@@ -557,7 +560,7 @@
 \v 38 Because of that new wine has to be put into a new skin bag too.
 \v 39 But a person who has tasted old wine won’t want to drink new wine anymore because he’ll say, ‘The old wine tastes better.’”\f + \fr 5:36-39 \fk Verses 36-39 \ft In these two examples, Jesus compares something old with something new. And this lesson was given when He was asked about the tradition of the Jewish forefathers regarding fasting. Like new cloth and new wine, Jesus’ teachings can’t be combined with the old teachings of the forefathers.\f*
 \c 6
-\s Jesus is Lord over the Sabbath Day
+\s1 Jesus is Lord over the Sabbath Day
 \r (Matt. 12:1-8; Mark 2:23-28)
 \p
 \v 1 Once when it was the Sabbath Day, Jesus and His disciples walked through a broad field of wheat. As they walked, the disciples picked several stalks of wheat and then rubbed them in their hands to take off the husk, and then ate the seeds.
@@ -566,7 +569,7 @@
 \v 3 Jesus answered, “Of course you know the story about David, when he and the men who were with him were hungry and needed food.
 \v 4 He entered God’s Holy Tabernacle and accepted the bread which was always placed in the Holy Room in God’s Tabernacle. David took it to the men who were with him, then he ate the bread with them even though according to the Law of Moses only the priests could eat it.\x + \xo 6:4 \xt Lev. 24:9; 1 Sam. 21:1-6\x* Even so, no one considers what David did to be a sin.”
 \v 5 Jesus said to the Pharisees again, “I the Son of Man\f + \fr 6:5 \fk Son of Man \ft See the note in Luke 5:24.\f* am the Lord who has the right to determine what may or may not be done on the Sabbath Day.”
-\s Jesus heals a sick man on the Sabbath Day
+\s1 Jesus heals a sick man on the Sabbath Day
 \r (Matt. 12:9-14; Mark 3:1-6)
 \p
 \v 6 On another Sabbath Day, Jesus went to teach at a Jewish synagogue. There was a man there whose right hand was paralyzed.
@@ -576,7 +579,7 @@
 \p
 \v 10 He looked around at the people and finally said to the sick man, “Straighten your hand out in front.” He did it, and his hand was immediately healed.
 \v 11 The Law experts and the Pharisees were very angry. Then they said to each other, “What should we do to Jesus?”
-\s Jesus chooses twelve apostles
+\s1 Jesus chooses twelve apostles
 \r (Matt. 10:1-4; Mark 3:13-19)
 \p
 \v 12 One day, Jesus went up on a hill to pray. He prayed all night there.
@@ -593,7 +596,7 @@
 \q1
 \v 16 There were also two men named Judas. The first was Judas, the son of James,
 \q1 and Judas who came from the village of Cariot. He was the one who would later betray Jesus.
-\s Jesus teaches, and heals sick people
+\s1 Jesus teaches, and heals sick people
 \r (Matt. 4:23-25, 5:1-12)
 \p
 \v 17 Then Jesus went down the hill with His disciples and stopped at a level place. A large number of people who followed Him were already there and many other people too, who came from all of the province of Judea, Jerusalem and the coastal region around Tyre and Sidon.
@@ -623,7 +626,7 @@
 \q1
 \v 26 If everyone praises you, you’re unfortunate.
 \q2 For remember the false prophets who lived in times past were also praised like that by the forefathers of people who are now praising you.”
-\s Love your enemies
+\s1 Love your enemies
 \r (Matt. 5:38-48, 7:12)
 \p
 \v 27 “But this is My command to each of you who hear this teaching of Mine, love the people who oppose you and do good to those who hate you.
@@ -638,7 +641,7 @@
 \p
 \v 35 Instead, you should love those who oppose you, do good to them, and loan money without hoping it will be returned. In that way, God will give you a great reward, and all your deeds will prove that you are worthy to call Almighty God your Father. For He’s also kind to people who never say thanks and to evil people.
 \v 36 You should show compassion, just like our Father in heaven shows compassion.”
-\s Examine yourself
+\s1 Examine yourself
 \r (Matt. 7:1-15)
 \p
 \v 37 “Don’t make yourself a judge of the wrongs of others, so that you won’t be judged in the same way too.\f + \fr 6:37 \fk Verse 37A \ft Literally, “Don’t judge, and you won’t be judged.” This verse and Matt. 7:1 are known as verses that in general are used wrongly. This prohibition doesn’t contradict other verses in the Bible that show the different ways God’s people need to determine if others deeds are wrong or right. This verse must be understood according to the teaching of Jesus that follows in this chapter.\f* Forgive other people, then God will forgive you.
@@ -648,13 +651,13 @@
 \v 40 A student can’t be greater than his teacher, but the student who finishes all of his training will become like his teacher.
 \p
 \v 41-42 “Don’t accuse another person for a small fault. Whoever does that is like someone who notices sand in his brother’s eye while he doesn’t notice the beam of wood in his own eye. Then he arrogantly says to his brother, ‘Come here and I’ll remove the sand from your eye!’ Hey, you who only pretend to be good people! First remove the beam that’s in your own eye, and after that you can see clearly to remove the sand that’s in your brother’s eye.”
-\s Example of two kinds of trees
+\s1 Example of two kinds of trees
 \r (Matt. 7:17-20, 12:34b-35)
 \p
 \v 43 “A good tree can’t possibly produce fruit that isn’t good, right? In the same way a tree that’s known to produce fruit that can’t be eaten won’t produce delicious fruit.
 \v 44 For every tree is known by its fruit. A thorn bush can’t possibly produce figs and other thorny plants can’t possibly produce grapes.
 \v 45 People are also like trees. A good person always produces good deeds because all of his deeds come from what’s kept in his heart. But an evil person always produces evil deeds because of the evil that’s kept in his heart. For whatever is kept in the heart and continually thought about will come out of the mouth, for sure.”
-\s Example of two kinds of people
+\s1 Example of two kinds of people
 \r (Matt. 7:24-27)
 \p
 \v 46 “Why do you call Me, ‘Lord, Lord’, but you don’t do what I command!
@@ -662,7 +665,7 @@
 \v 48 They’re just like a man who builds a house. First he digs a deep hole in the ground until he finds a large, solid rock. That rock is used as the foundation for other stones. When there’s a flood and the river overflows and crashes into that house, the house isn’t shaken because it was built on a foundation of solid rock.
 \v 49 However, a person who hears My teaching but doesn’t do it is like a man who builds a house without a foundation just on top of the ground. When there’s a flood and the river overflows and crashes into that house, it’ll fall apart and be severly ruined.” 
 \c 7
-\s Jesus heals a slave
+\s1 Jesus heals a slave
 \r (Matt. 8:5-13; John 4:43-54)
 \p
 \v 1 After Jesus finished teaching all of those things to the crowd, He and His disciples went to the city of Capernaum.
@@ -678,7 +681,7 @@
 \v 9 When Jesus heard his answer, He was really amazed. Then He said to the crowd who was following Him, “Pay attention to what I’m saying. I’ve never met anyone among the people of Israel who has faith as great as this man.”
 \p
 \v 10 When those who were sent returned to the officer’s house, they found the slave was already well.
-\s Jesus brings the son of a widow back to life
+\s1 Jesus brings the son of a widow back to life
 \p
 \v 11 Not long after that, Jesus went to a village called Nain. His disciples and many other people also went with him on that trip.
 \v 12 When Jesus was near the village gate, there was a group of people going out, carrying the dead body of a young man.\f + \fr 7:12 \fk young man \ft Literally, “dead man.” The word that Jesus used to refer to the young man in verse 14 indicates an adult between the ages of 24-40.\f* The young man was the only son of a widow. Many people from that village were with the widow.
@@ -689,7 +692,7 @@
 \v 16 Everyone who was there was very amazed and afraid, while praising God. There were some who said, “Obviously this Jesus is a great prophet who has been sent by God to us!” And there were others who said, “God has begun to help us His people like in times past!”
 \p
 \v 17 So the news about what Jesus had done spread to all Judea and the region around it.
-\s John the Baptist presents a question, and Jesus teaches about the ministry of John
+\s1 John the Baptist presents a question, and Jesus teaches about the ministry of John
 \r (Matt. 11:2-19)
 \p
 \v 18 John the Baptist’s disciples told all of those things to John. Then John called two of his disciples
@@ -723,7 +726,7 @@
 \v 33 It means this: you always reject the work of God whatever its form. For when John the Baptist was serving the Lord among you, he often fasted and didn’t drink strong drinks, but you said, ‘He’s demon possessed.’
 \v 34 Then the I Son of Man came too, and I eat and drink strong drinks like people in general. But you say, ‘Look! He eats and drinks greedily! He’s also a friend of tax collectors and other sinful people.’
 \v 35 Even so, the wisdom of God is always proven to be true through its results.”
-\s Jesus is anointed by a prostitute woman
+\s1 Jesus is anointed by a prostitute woman
 \p
 \v 36 Then a Pharisee named Simon invited Jesus to eat with him at his house. So Jesus went and took His place at the dinner table.
 \p
@@ -751,7 +754,7 @@
 \p
 \v 50 But Jesus said to the woman again, “It’s because you believe in Me that you’ve been saved. Go with the feeling of calm under God’s protection.” 
 \c 8
-\s Women were also involved in Jesus’ ministry
+\s1 Women were also involved in Jesus’ ministry
 \p
 \v 1 Not long after that Jesus went around to many cities and villages to preach and announce the news of salvation from God, which is the Good News about God’s kingdom. And His twelve disciples went with Him.
 \v 2 There were some women with them whom Jesus had healed from various diseases and freed from evil spirits. Among them were
@@ -761,7 +764,7 @@
 \q1 Susannah
 \q1 and still many other woman.
 \m All of those women often used their own money to help the needs of Jesus and His disciples.
-\s The parable about the seeds that were scattered
+\s1 The parable about the seeds that were scattered
 \r (Matt. 13:1-9; Mark 4:1-10)
 \p
 \v 4 When a great number of people from every city just kept coming to Jesus, He told them this parable.
@@ -771,7 +774,7 @@
 \v 7 Some others fell among thorny weeds. When the seeds grew and sprouted with the weeds, then the weeds choked them so that they died.
 \v 8 Whereas some others fell on ground that was fertile, then grew well, and from one seed, one hundred seeds were produced.”
 \p After Jesus finished telling that parable, He cried out, “You have ears, don’t you?! So listen well!”
-\s Jesus explains the meaning of the parable of the seeds that were scattered
+\s1 Jesus explains the meaning of the parable of the seeds that were scattered
 \r (Matt. 13:10-23; Mark 4:10-20, 24-25)
 \p
 \v 9 After that Jesus' disciples asked Him, “What’s the meaning of that parable?”
@@ -792,20 +795,20 @@
 \v 14 The seeds that fell among thorny weeds illustrate the people who’ve heard God’s teachings, but in living out their daily lives they worry and chase after the wealth of the world and worldly pleasure. All of those things choke the growth of those teachings so that they can’t produce anything good in their lives.
 \m
 \v 15 And the seeds that fell on fertile ground illustrate those who hear God’s teaching and keep it carefully in their sincere hearts. Then they obey while continuing to persevere in those teachings. They’re like fertile ground that produces much fruit.”\f + \fr 8:15 \fk produces much fruit \ft In other places in God’s Word we see the way men can ‘produce fruit’. First, the Good News from God enables people to believe. We also see that a person can ‘produce fruit’ if he faithfully does what God has commanded him. (Matt. 5-7) We also ‘produce fruit’ if the words that come out of our mouths are good in the eyes of God. (Matt. 12:31-37) And we also ‘produce fruit’ if we lead another person to repent. (John 15:16) A life like that is like good fruit in God’s eyes.\f*
-\s We should understand Jesus' teachings
+\s1 We should understand Jesus' teachings
 \r (Matt. 13:12; Mark 4:21-25)
 \p
 \v 16 Then Jesus added this parable, “A person would never light a lamp and then cover it with a bucket! He would never put it under a bed either. But a lamp is always put in a high place so that those who come into the house can see by its light.
 \v 17 It’s the same with all of the lessons that I teach in parables to the crowd. The meaning is kept secret now, but everything will be opened up later on. What isn’t clear now will become clear later on.
 \v 18 For that reason, pay close attention to the way you listen to My teachings. Because God will add ability to everyone who accepts My teachings so that they understand more. But God will take away the ability to understand from anyone who doesn’t accept My teachings, even though he thinks he understands a little.”
-\s The character of people whom Jesus considers to be His family
+\s1 The character of people whom Jesus considers to be His family
 \r (Matt. 12:46-50; Mark 3:31-35)
 \p
 \v 19 Then Jesus' mother and brothers came to meet Him, but they couldn’t meet with Him because of the crowd that was surrounding Him.
 \v 20 So a person told Him, “Sir, your mother and brothers and sisters are waiting outside. They want to talk to you.”
 \p
 \v 21 But Jesus said to them, “I consider everyone who hears God’s teachings and does them to be my mother and my brothers and sisters.”
-\s Jesus stops a storm
+\s1 Jesus stops a storm
 \r (Matt. 8:18, 23-27; Mark 4:35-41)
 \p
 \v 22 One day, Jesus said to His disciples, “Come, let’s go across to the other side of the lake.” So they got into a boat and left.
@@ -814,7 +817,7 @@
 \p Jesus just got up and with a loud voice said to the stormy wind and the waves, “Be quiet!” Then the stormy wind and waves became quiet, and the lake became calm again.
 \v 25 Jesus said to them, “Why did you doubt Me?!”
 \p They were amazed and afraid of Jesus. Then they said to each other, “Wow, what kind of a Man is He?! Even the wind and the lake obey His commands.”
-\s Jesus drives demons out of a man from Gerasa
+\s1 Jesus drives demons out of a man from Gerasa
 \r (Matt. 8:28-34; Mark 5:1-20)
 \p
 \v 26 They continued to sail and reached the region of the city of Gerasa, which is located on the southeast side of Lake Galilee. 
@@ -836,7 +839,7 @@
 \p Because of that, Jesus and His disciples got back into the boat and left that region.
 \v 38 The man who had been set free from demons repeatedly asked Jesus if he could go along with Him. But Jesus sent the man home saying,
 \v 39 “Go home and tell how God has helped you.” The man, in fact, went to the whole city of Gerasa and told how Jesus had helped him in an extraordinary way.
-\s Jesus heals a woman who was sick with a bleeding disorder and brings Jairus’ daughter to life
+\s1 Jesus heals a woman who was sick with a bleeding disorder and brings Jairus’ daughter to life
 \r (Matt. 9:1, 18-26; Mark 5:21-43)
 \p
 \v 40 When Jesus returned from the other side of the lake, the crowd welcomed Him because they were waiting for Him.
@@ -865,7 +868,7 @@
 \v 55 The child came alive again, and at that very moment she stood up. Then Jesus ordered the child’s parents to give her some food.
 \v 56 They were really amazed at seeing what happened to their child, but Jesus forbid them to tell anyone about it.
 \c 9
-\s Jesus sends out His followers
+\s1 Jesus sends out His followers
 \r (Matt. 9:35–11:1; Mark 6:7-13)
 \p
 \v 1 Jesus called His twelve disciples together. Then He gave authority to each of them to drive out demons and to heal various sicknesses.
@@ -875,13 +878,13 @@
 \v 5 But if you come to another town or village and the people there don’t want to receive you, leave that place and remove its dirt from your feet and sandals as a warning sign to them.”\f + \fr 9:5 \fk remove the dirt... warning... \ft At that time, it had become the habit of Jews that if they were forced to take a trip in a region of non-Jews, when they left that region they would clean the soles of their feet and their clothes. They did that because they considered non-Jews and their land unholy. Jesus ordered His disciples to do the same thing to Jewish people who rejected God’s teaching. In that way, His disciples showed that God considered hard-headed people like that to be unholy. It was also a sign that they would be punished by God if they didn’t repent. See another example of this in Acts. 18:6.\f*
 \p
 \v 6 Then they left and went around to the villages. They told the Good News from God and healed sick people with the Lord’s power in every place they visited.
-\s Herod is confused about Jesus
+\s1 Herod is confused about Jesus
 \r (Matt. 14:1-12; Mark 6:14-29)
 \p
 \v 7 When King Herod heard the news about all of the miracles that were done by Jesus, he became confused and nervous. Some people said, “John the Baptist has come back to life from the dead but now he’s calling himself Jesus.”\f + \fr 9:7 \fk ... calling himself Jesus \ft At that time, Herod had just ordered John to be killed (Matt. 14:3-12; Mrk 6:17-29). Then suddenly, the name of Jesus became well-known as a man who did many miracles. So some people who had never seen or known Jesus thought that perhaps John had come back directly from heaven and called himself by a new name. At the time of Jesus, there were many other men also named Jesus. Jesus' name in Greek is the same as the name Joshua in Hebrew. Both names mean “Yahweh My Savior.”\f*
 \v 8 But there were other people who said, “He’s the Prophet Elijah, who was previously taken up alive into heaven and now he has returned and calls himself Jesus.” And yet others said that Jesus was one of the prophets from times past who had come back to life after death.
 \v 9 But Herod said, “I ordered John’s neck to be cut off, so who actually is that man whom I often hear is doing extraordinary things?!” For that reason, Herod tried again and again to see Jesus.
-\s Jesus feeds five thousand people
+\s1 Jesus feeds five thousand people
 \r (Matt. 14:13-21; Mark 6:30-44; John 6:1-14)
 \p
 \v 10 After the disciples returned, they told Jesus all that they had done. Then Jesus invited them to go to a city named Bethsaida, to be alone with Him.
@@ -897,7 +900,7 @@
 \v 15 The disciples did what He commanded, then everyone sat down.
 \v 16 While holding the five pieces of bread and the two fish, Jesus looked up to the sky and gave thanks to God for that food. Then He broke the bread and tore the fish, and He gave it to His disciples repeatedly while they distributed it to the crowd.
 \v 17 Everyone ate until satisfied. And when the disciples gathered the extra bread and fish, it turned out that there were twelve baskets full.
-\s Peter said to Jesus, “You’re the King of Salvation!” 
+\s1 Peter said to Jesus, “You’re the King of Salvation!” 
 \p
 \v 18 One day, while Jesus was praying alone and His disciples were also around there, He asked them, “According to the crowd, what position am I ministering in?”\f + \fr 9:18 \fk ministering... \ft Jesus literally asked, “Who am I?” The purpose of that question wasn’t to ask what His name was because then their answer would certainly have been, “Everyone knows Your name is ‘Jesus.’” Compare with Luk. 9:7-9.\f*
 \p
@@ -907,7 +910,7 @@
 \p Peter answered, “You’re the Christ\f + \fr 9:20 \fk Christ \ft See note in Luke 2:11.\f* who was sent by God.”
 \p
 \v 21 And Jesus strictly forbade them not to tell anyone about that.
-\s Jesus begins to teach that He’ll suffer and be killed
+\s1 Jesus begins to teach that He’ll suffer and be killed
 \r (Matt. 16:21-28; Mark 8:30–9:1)
 \p
 \v 22 Then Jesus said, “I the Son of Man\f + \fr 9:22 \fk Son of Man \ft See note in Luke 5:24.\f* have been appointed by God to suffer much and to be rejected by the Jewish leaders, the chief priests and the Law experts. Then I'll be killed, but on the third day I'll be made alive again.”
@@ -917,7 +920,7 @@
 \v 25 Think about this, what good is it for you to be rich, even to the point of owning all the wealth of this world, if you don’t possess eternal life and are destroyed?
 \v 26 When I come in My glory and the glory of My Father and in the glory of the heavenly angels later on, I won’t say anyone is my follower if he's ashamed to say that he follows me and my teaching. 
 \v 27 What I’m saying is true. Among those of you who are here, some people won’t die before they see God begin to set up His kingdom on this earth.”\f + \fr 9:27 \fk won’t die before... kingdom... \ft When Jesus healed sick people, it showed that God’s kingdom had defeated sickness, demons and even death. God’s kingdom was also revealed at the time His disciples saw Jesus on the mountain with the glory of heaven (Luke 9:28-36). In fact, the moment Jesus died, a Roman officer recognized Him as God’s Son, and that meant Jesus was worthy to rule (Mark 15:39). And the resurrection of Jesus (Luke 24) very clearly showed that God’s kingdom was already in authority on this earth. Things like that showed that a new government had begun and was evident on this earth.\f*
-\s Jesus appears to be shining on the mountaintop
+\s1 Jesus appears to be shining on the mountaintop
 \r (Matt. 17:1-8; Mark 9:2-8)
 \p
 \v 28 About one week later, after Jesus spoke about those things, He climbed up a mountain with Peter, John and James to pray.,
@@ -931,7 +934,7 @@
 \v 35 Then a voice was heard from the cloud, which said, “This is My Son whom I’ve chosen. Listen carefully to Him.”
 \p
 \v 36 After the voice was quiet, they only saw Jesus alone there. After that event and for a long time to come, the three disciples didn’t tell anyone about what they had witnessed there.
-\s Jesus drives an evil spirit out of a boy
+\s1 Jesus drives an evil spirit out of a boy
 \r (Matt. 17:14-18; Mark 9:14-27)
 \p
 \v 37 The next day, when Jesus and His three disciples had gone down from the mountain, a crowd came thronging to meet Jesus.
@@ -943,12 +946,12 @@
 \p
 \v 42 When the child approached Jesus, the evil spirit threw him to the ground and made him convulse. But Jesus ordered the evil spirit to leave the child, and He healed him, then handed him back to his father.
 \v 43 Everyone was really amazed because they realized they had seen the extraordinary power of God.
-\s Jesus speaks about His death
+\s1 Jesus speaks about His death
 \r (Matt. 17:22-23; Mark 9:30-32)
 \p While the people were still amazed about all that He had done, Jesus spoke to His disciples,
 \v 44 “Tune in your ears carefully. The I the Son of Man will soon be turned over to the powers of this world.”
 \v 45 But His disciples didn’t understand the point of Jesus’ words. Of course it was God who hid it from them and because of that they couldn’t understand it. But they were also afraid to ask Jesus about the meaning of His words.
-\s The character of people who become the most important in God’s kingdom
+\s1 The character of people who become the most important in God’s kingdom
 \r (Matt. 18:1-5; Mark 9:33-40)
 \p
 \v 46 One day a disagreement happened among Jesus’ disciples about which one of them would be number.
@@ -958,7 +961,7 @@
 \v 49 John said, “Teacher, we saw a person who drove out demons using Your name so we forbade him because he isn’t part of our group.”
 \p
 \v 50 But Jesus said to him, “Don’t forbid him, because whoever doesn’t oppose us is on our side.”
-\s Jesus decides to go to Jerusalem through the province of Samaria
+\s1 Jesus decides to go to Jerusalem through the province of Samaria
 \p
 \v 51 When it was close to the time for Jesus to be taken up to heaven, His decision to go to Jerusalem was still firm.
 \v 52 Then Jesus sent some people ahead of Him to prepare several things for Him. So they went. But when they entered a village in the region of Samaria
@@ -967,7 +970,7 @@
 \p
 \v 55 Then Jesus turned around and rebuked them.\f + \fr 9:55 \fk Verse 55B-56 \ft Several Greek copies add, "And He said, ‘You don’t know what spirit directs your hearts. The I the Son of Man didn’t come to destroy people but to save them.’ "\f*
 \v 56 Then Jesus and His disciples continued their trip to another village.
-\s Regarding the decision to follow Jesus
+\s1 Regarding the decision to follow Jesus
 \r (Matt. 8:19-22)
 \p
 \v 57 One day, while they were on their trip, a person said to Jesus, “Sir, I’ll follow you, wherever you go.”
@@ -983,7 +986,7 @@
 \p
 \v 62 But Jesus said to him, “A person who has begun to plow a field, yet looks back, isn’t useful in God’s kingdom.”
 \c 10
-\s Jesus sends out seventy two of His followers
+\s1 Jesus sends out seventy two of His followers
 \p
 \v 1 After that, Jesus chose seventy two\f + \fr 10:1 \fk seventy two \ft There are also some ancient copies in the Greek language that say, “seventy.” It’s also repeated like this in verse 17.\f* other followers. Then He sent them to go out in pairs to every city and place that He would visit.
 \v 2 Jesus said to them, “All of these wheat fields are ready to be harvested, but there are few people to harvest them. Because of that, pray that the Lord who owns these fields will send out workers to harvest all of this wheat.\f + \fr 10:2 \fk Verse 2 \ft To understand the meaning of the analogy in this verse, read John 4:35-38.\f*
@@ -1000,7 +1003,7 @@
 \v 10 “But if you enter a city and the people don’t receive you, go to the main streets of that city and shout,
 \v 11 ‘We’re removing even the dust of this city that sticks to our feet as a warning to you that God will punish you! But know this, in just a short time God will come and set up His kingdom on this earth!’
 \v 12 I’m telling you the truth, on the Judgment Day, the punishment that will fall on the residents of that city will be far greater than the punishment that will fall on the residents of the city of Sodom!”
-\s People who don’t want to believe better watch out
+\s1 People who don’t want to believe better watch out
 \r (Matt. 11:20-24)
 \p
 \v 13 “You people of Chorazin are so unfortunate! You people of Bethsaida are so unfortunate! God’s judgment will be so horrible for you. For if the miracles that I’ve done among you had happened in the past in Tyre and Sidon too, then they would have repented long ago and shown their sincerity by sitting, wearing mourning cloth and putting ashes on their heads.
@@ -1008,7 +1011,7 @@
 \v 15 And you residents of Capernaum too, you think that you’ll be raised up to get great honor in heaven. No! You’ll be thrown into hell!\f + \fr 10:15 \fk hell \ft Literally, “Hades,” which is the place for evil people after they die. See Luke 16:23; Rev. 20:13-14.\f*
 \p
 \v 16 “In God’s considers everyone who hears you as My messengers to be hearing Me. Everyone who rejects you when you give My message is considered to be rejecting Me. And everyone who rejects Me rejects God who sent Me.”
-\s The seventy two messengers of Jesus return
+\s1 The seventy two messengers of Jesus return
 \r (Matt. 11:25-27, 13:16-17)
 \p
 \v 17 Not long after that, the seventy two followers returned to Jesus. They said gladly, “Lord, by Your name even the demons obeyed us.”
@@ -1023,7 +1026,7 @@
 \p
 \v 23 Then Jesus turned away from the crowd and said to His disciples only, “You’ve each been truly blessed by God because you’ve been given the opportunity to see what’s happening now with your own eyes.
 \v 24 I’m telling you the truth. Many prophets and kings wanted to see and hear what you’re seeing and hearing now. But that blessing wasn’t given to them.”
-\s The parable about the kind-hearted Samaritan
+\s1 The parable about the kind-hearted Samaritan
 \p
 \v 25 Then a Law expert stood up among the crowd. He intended to test Jesus with his question. He said, “Teacher, what must I do in order to have eternal life?”
 \p
@@ -1048,7 +1051,7 @@
 \p
 \v 37 The Law expert said, “The man who had compassion on him and helped him.”
 \p Jesus said to him, “Go and do the same thing.”
-\s Jesus visits Mary and Martha
+\s1 Jesus visits Mary and Martha
 \p
 \v 38 While Jesus and His disciples were on a trip, they arrived in a village. A woman of that village named Martha received Him into her home.
 \v 39 The sister of Martha, named Mary, sat near Jesus’ feet and kept listening to His teaching
@@ -1057,7 +1060,7 @@
 \v 41 Then the Lord answered her, “Martha, Martha, you’re making trouble for yourself,and you worry about many things!
 \v 42 However only one thing is important. Mary has chosen the thing that’s best and most important. That’s a blessing that no one can take away from her.”
 \c 11
-\s Jesus teaches about how to pray
+\s1 Jesus teaches about how to pray
 \r (Matt. 6:9-15)
 \p
 \v 1 One day Jesus was praying in a certain place. After He finished praying, one of His disciples said, “Lord, teach us to pray like John also taught his disciples.”
@@ -1071,7 +1074,7 @@
 \v 4 And forgive each of us for our sins
 \q2 because we also forgive everyone who does wrong to us.
 \q1 And don’t let us be tempted to do evil.’”
-\s Jesus’ advice to be diligent in prayer
+\s1 Jesus’ advice to be diligent in prayer
 \r (Matt. 7:7-11)
 \p
 \v 5 Then Jesus gave this example to them, “For example, if you have a close friend and in the middle of the night you go to his house and say to him, ‘Friend, give me three pieces of bread. I’ll repay you later.
@@ -1085,7 +1088,7 @@
 \v 11 If you’re a father and your child asks for a fish, you wouldn't give him a poisonous snake, would you?!
 \v 12 Or if he asks for an egg you wouldn't give him a scorpion, would you?!
 \v 13 So if you who are evil know how to give what’s good to your children, your Father in heaven will do so even more! He’ll even give the Holy Spirit to everyone who asks Him.”
-\s According to what people say, Jesus works by the power of the devil
+\s1 According to what people say, Jesus works by the power of the devil
 \r (Matt. 12:22-30; Mark 3:20-30)
 \p
 \v 14 One day Jesus drove out a demon who made a man unable to speak. When the demon left, the man could speak. Then the crowd who saw that happen was amazed.
@@ -1099,18 +1102,18 @@
 \v 21-22 “The devil can be illustrated by a strong home owner who always guards his house fully armed. He trusts in his weapons to keep all his possessions safe and to defeat the One who opposes him, who is Me. But I’m stronger than he is! When I attack him, I will certainly defeat him, take all of his weapons, carry away his possessions and distribute them according to My will.
 \p
 \v 23 “Whoever isn’t on My side opposes Me. And whoever doesn’t help shepherd the flock of sheep scatters them.”
-\s A warning about people who oppose Jesus
+\s1 A warning about people who oppose Jesus
 \r (Matt. 12:43-45)
 \p
 \v 24 “Remember this example, if an evil spirit leaves a person, the spirit is forced to look for another person here and there, even going into the desert so that it can enter a person, because the evil spirit wants to enter someone so that it can be calm. When it doesn’t succeed in finding someone else whom it can enter, then it thinks, ‘I’ll just return to the person I left the other day.’
 \v 25 When it returns, it finds that person has become like a house that has been swept clean and is neatly organized.
 \v 26 So it goes and invites seven other spirits that are more evil than itself to join with it. When they enter and possess that person, the situation of that person becomes much worse than the situation used to be.”\f + \fr 11:26 \fk Verse 24-26 \ft Matt. 12:45 adds a sentence which shows the meaning of this lesson to those who opposed Jesus, “The same thing will happen to you who live in this evil age too.” The interpretation of these verses is that when a demon is driven out of a person, that person can’t allow himself to be empty, like an empty house that isn’t lived in. It means that if he doesn’t invite God’s Spirit to live in him, then evil spirits will enter him again, for sure.\f*
-\s People who are truly blessed
+\s1 People who are truly blessed
 \p
 \v 27 While Jesus was speaking about those things, a woman from among the crowd shouted to Him, “Your mother is truly blessed by God because she gave birth to you!”\f + \fr 11:27 \fk your mother \ft Literally, “The womb that carried you and the breasts that nursed you.”\f*
 \p
 \v 28 But He said, “The people who hear God’s Word and do it are far more blessed!”
-\s The miraculous sign that will be given to people of this evil age
+\s1 The miraculous sign that will be given to people of this evil age
 \r (Matt. 12:38-42; Mark 8:12)
 \p
 \v 29 While more and more people were gathering, Jesus said, “You people who live in this age are so evil! Even though you’ve seen everything that I’ve done, you keep saying that you need a miraculous sign in order to believe in Me. But no sign at all will be given to you except this sign, the miraculous sign that happened to the Prophet Jonah.\f + \fr 11:29 \fk Prophet Jonah \ft The story about the Prophet Jonah is in the book of Jonah, in the Old Testament. Jonah was sent by God to the city of Nineveh.\f*
@@ -1119,14 +1122,14 @@
 \v 31 And on the Judgment Day, the queen of the south\f + \fr 11:31 \fk queen of the south \ft That is the queen of the country of Sheba, who traveled the distance of 1,500 kilometers to learn the wisdom which God had given to King Solomon. This story is in 1 Kings 10:1-13.\f* will stand to testify against most of you who live in this present age. For that queen came from a very distant place to study the wisdom of Solomon. Pay attention, I who am greater than Solomon am here in front of you! But most of you don’t want to listen to Me.
 \p
 \v 32 On the Judgment Day the residents of the city of Nineveh will stand to testify against most of you who live in this present age, because when Jonah told God’s message to them, they repented. Even though I, who am greater than Jonah, am here, you still don’t want to repent.”
-\s Guard your spiritual eyes so that they remain open to the light
+\s1 Guard your spiritual eyes so that they remain open to the light
 \r (Matt. 5:15, 6:22-24)
 \p
 \v 33 “No one lights a lamp and then hides it or covers it with a clay pot. But a lamp is always put in a high place so that it gives light to everyone who comes into the house.
 \v 34 Your eyes are like windows through which light enters a house, which is your body. If your eyes function well, then each part of your life will be given light. But if your eyes are bad,\f + \fr 11:34 \fk eyes are bad \ft Literally, “your eyes are evil/diseased.” Jesus was speaking to the Jewish leaders, including the members of the Pharisees and the Law experts. In the context of this chapter, we see that they had seen many miracles which prove that Jesus was sent by God, but it’s as if they became blind to all of those miracles. (11:29-30) In fact, they say that He worked by the devil’s power. Bad eyes are also frequently interpreted as meaning greedy for money, as in Matt. 6:19-24. See Luke 16:14 too.\f* not every part of your life will be given light and will become very dark.
 \v 35 For that reason beware! Don’t let the light inside you become dark.
 \v 36 So if the eyes of your heart aren’t blind your whole life will become very bright and no longer be dark. This means that your life is light like the light of a very bright lamp.”
-\s Jesus teaches not to copy the deeds of the Law experts
+\s1 Jesus teaches not to copy the deeds of the Law experts
 \r (Matt. 15:1-3, 23:1-36; Mark 12:38-40; Luke 20:45-47)
 \p
 \v 37 After He gave His teaching, a Pharisee invited Jesus to eat at his house. Then Jesus entered the man’s house and ate with him and also with other Pharisees and some of the Law experts.\f + \fr 11:37 \fk him and other Pharisees... \ft This verse doesn’t literally mention “and also with other Pharisees and some of the Law experts.” According to what’s natural, the others who were present are written at the beginning of this story in agreement with the information found in verses 45 and 53.\f*
@@ -1154,7 +1157,7 @@
 \v 53 After Jesus left that place, the Pharisees and Law experts held a huge grudge against Him so they often pressed Him with various questions.
 \v 54 They pretended to listen to His teaching, but they actually wanted to trap Him. If Jesus taught something wrong, they planned to accuse Him before the Jewish leaders. 
 \c 12
-\s Fear and respect God, not man
+\s1 Fear and respect God, not man
 \r (Matt. 10:19-20, 26-31, 12:31-32, 16:6; Mark 3:28-29, 8:15, 38, 13:11)
 \p
 \v 1 Then thousands of people gathered and pressed around Jesus so that people’s feet were stepped on. So Jesus began to teach mainly His disciples by saying, “Be careful! Don’t be affected by the yeast of the Pharisee group, which is like doing things to pretend to be good people.
@@ -1173,7 +1176,7 @@
 \p
 \v 11 “When you’re arrested and brought to face the leaders of synagogues or government officials, don’t worry about how you should defend yourself before them or how you’ll answer all of their questions.
 \v 12 For at that very moment the Holy Spirit will tell you what you should say.”
-\s The parable of a rich man
+\s1 The parable of a rich man
 \p
 \v 13 Then a man in the crowd said to Jesus, “Teacher, please order my brother to share the inheritance with me which was left by our father.”
 \p
@@ -1189,7 +1192,7 @@
 \v 20 “But God said to him, ‘Hey, you stupid person! How useless for you to pile up possessions for yourself alone because this very night I will take your life!’
 \p
 \v 21 “The same thing will happen to everyone who gathers rich treasures for himself in this world but doesn’t try to gather heavenly treasure and doesn’t want to be rich in God’s sight.”
-\s Put God’s kingdom first
+\s1 Put God’s kingdom first
 \r (Matt. 6:19-21, 25-34)
 \p
 \v 22 Then Jesus said to His disciples, “For that reason I’m telling you, don’t worry about the daily needs of life like food and clothing.
@@ -1204,7 +1207,7 @@
 \v 29 So don’t be anxious about what you’ll eat or drink
 \v 30 because those who don’t know God are always worried about those things. But our Father who is in heaven knows that you need all those things.
 \v 31 For that reason live in a way that’s proper for citizens of God’s kingdom, and everything that you need will be given to you too.”
-\s How we should live while waiting for God’s kingdom
+\s1 How we should live while waiting for God’s kingdom
 \r (Matt. 6:20-21, 24:45-51)
 \p
 \v 32 “Hey, all of you followers of Mine, don’t worry, even though you’re like a small flock of My sheep in My sight! Don’t worry because our heavenly Father will gladly welcome each of you as citizens of His kingdom.
@@ -1217,7 +1220,7 @@
 \p
 \v 39 “And remember this example, if the master of the house knows what time a thief will come, he’ll always be ready so that the thief can’t manage to break into his house.
 \v 40 It’s the same for you! You should keep ready because I the Son of Man will come at a moment you don’t expect.”
-\s The parable about the faithful servant and the unfaithful servant
+\s1 The parable about the faithful servant and the unfaithful servant
 \r (Matt. 24:45-51, 25:29)
 \p
 \v 41 Then Peter asked “Lord, in the last parable, did You mean that the servants who have to stay on guard are just us disciples of Yours or all of Your followers?”
@@ -1231,7 +1234,7 @@
 \p
 \v 47 “Every servant who knows his Master’s will and doesn’t prepare himself or do the will of his Master will be beaten many times.
 \v 48 But every servant who doesn’t know the will of his Master and does something wrong will be beaten just a few times. Every servant who is entrusted by his Master to undertake many things will be examined in regard to all of his responsibilities. And every servant who is given great responsibility will be held accountable for that great responsibility.”
-\s Difficulties that will be experienced by followers of Jesus
+\s1 Difficulties that will be experienced by followers of Jesus
 \r (Matt. 10:34-36)
 \p
 \v 49 “My coming to this world can be illustrated by fire, that is a fire which will burn this world.\f + \fr 12:49 \fk fire... \ft The illustration of fire in this verse is often interpreted in three ways, and Jesus might have intended all three things: 1) Fire illustrates the battle which will happen in the world because of Jesus, as is seen in verse 51. 2) Fire illustrates the way God will make His people holy through Jesus. 3) Fire also illustrates God’s punishment of people who reject believing in Jesus.\f* How good it would be if that fire was already hot!
@@ -1242,34 +1245,34 @@
 \v 53 ‘A son and his father will oppose each other,
 \q2 a daughter and her mother will oppose each other
 \q1 and a daughter-in-law and her mother-in-law will oppose each other.”\x + \xo 12:53 \xt Mic. 7:6\x*
-\s We are responsible to pay attention to the signs of the times
+\s1 We are responsible to pay attention to the signs of the times
 \r (Matt. 16:2-3)
 \p
 \v 54 On another day Jesus also used this example when teaching a crowd, “When you see a dark cloud appear in the west you say, ‘Oh, it will rain soon,’ and of course that happens.
 \v 55 And when the wind blows from the south you say, ‘It’ll be hot today,’ and of course that happens. 
 \v 56 Hey, you who only pretend to be good! You can predict the weather by just looking at the sky and the land so why are you blind to the signs of the times that are happening now?!”
-\s Make peace with God because He’s ready to judge
+\s1 Make peace with God because He’s ready to judge
 \r (Matt. 5:25-26)
 \p
 \v 57 “And why don’t each of you open your own eyes and choose the right path?!
 \v 58 If your enemy brings a case against you to court, then while you two are still on the way to the courtroom try hard to settle your problem with him. If not he’ll drag you into court, then the judge will hand you over to the jailer so that you’ll be imprisoned.
 \v 59 I’m telling you the truth, you won’t get out of prison until you pay all of your debts in full and pay the fines which the judge has determined!”
 \c 13
-\s Repent
+\s1 Repent
 \p
 \v 1 At the time Jesus was teaching these things, there were people present who told Jesus about some people from the province of Galilee who were killed by Pilate. They were killed while they were offering animal sacrifices to God, and their own blood was mixed with the blood from the animal sacrifices which they were offering.
 \v 2 On hearing that news, Jesus said to them, “So because they were killed like that, do you think that their sins were greater than the sins of all the other Galileans?
 \v 3 That’s not so! I’m telling you the truth. If you don’t repent, you won’t just experience a disaster like them but you’ll go to hell!
 \v 4 Or take for example when the guard tower of Siloam collapsed and eighteen people were crushed to death, you probably think that their sins were greater than the sins of all the other people of Jerusalem.
 \v 5 That’s not true at all! I’m telling all of you the truth again. If you don’t repent, you won’t just experience a disaster like them but you’ll go to hell!”
-\s The parable about the fig tree that’s slow to bear fruit
+\s1 The parable about the fig tree that’s slow to bear fruit
 \p
 \v 6 Then Jesus told this parable, “A man owned a fig tree which was planted in his vineyard, and he had come several times to look for fruit on the tree but there was none.
 \v 7 So he said to his gardener, ‘Look, I’ve come looking for fruit on this fig tree for three years but there has never been any. Because of that chop it down. There’s no use in having that tree grow on this land.
 \p
 \v 8 “But the gardener answered, ‘Sir, let the tree grow for one more year. I’ll dig up the ground around it and bury fertilizer from the pen there.
 \v 9 Hopefully the tree will bear fruit next year. If not we’ll just chop it down.’”
-\s On the Sabbath Day Jesus heals a woman who has a hunched back
+\s1 On the Sabbath Day Jesus heals a woman who has a hunched back
 \p
 \v 10 One Sabbath Day Jesus was teaching in a synagogue.
 \v 11 There was a woman there who for had been hunch-backed for eighteen years and couldn’t stand up straight anymore. An evil spirit made her sick like that.
@@ -1281,7 +1284,7 @@
 \v 15 But the Lord said to him, “Hey, you people who only pretend to be good! Each of you unties your cow or donkey from its stall everyday and takes it to let it drink, even on the Sabbath Day.
 \v 16 This woman is a descendant of Abraham who has suffered because of the work of a demon as if being bound with an iron chain for eighteen years. It certainly isn’t wrong to release her from her suffering even though today is the Sabbath Day!”
 \v 17 When Jesus said that, all of those who were opposing Him were ashamed, whereas all the other people rejoiced because of the amazing thing that He had done.
-\s The parables about a mustard seed and yeast
+\s1 The parables about a mustard seed and yeast
 \r (Matt. 13:31-33; Mark 4:30-32)
 \p
 \v 18 Jesus said, “In order to make it even clearer I’m giving you two parables which illustrate God’s kingdom.
@@ -1289,7 +1292,7 @@
 \p
 \v 20 Jesus said again, “I'll also illustrate God’s kingdom like this.
 \v 21 God’s kingdom is like yeast which is mixed into a large amount of flour by a woman.\f + \fr 13:21 \fk large amount \ft Literally, “three sata.” One sata is the same as thirteen liters.\f* Even though there was a small amount of yeast and the mixture of flour was great, the flour expanded so that it was made into bread.”
-\s Enter through the narrow gate
+\s1 Enter through the narrow gate
 \r (Matt. 7:13-14, 21-23)
 \p
 \v 22 Jesus continued His trip heading to Jerusalem through cities and villages. He gave His teaching in every place He passed.
@@ -1303,7 +1306,7 @@
 \v 28 “You’ll cry and suffer terribly outside there,\f + \fr 13:28 \fk suffer terribly \ft Literally, “grind teeth.”\f* when you see Abraham, Isaac and Jacob along with all the prophets enjoying eternal life in God’s kingdom, while you yourselves are forbidden to enter.
 \v 29 And many non-Jews will come from the east, west, north and south too. Then they’ll all join in celebrating the opening feast of God’s kingdom.
 \v 30 And know this, people who have low status now will have high status later on. And people who have high status now will have low status later on.”
-\s Jesus feels compassion for the residents of Jerusalem
+\s1 Jesus feels compassion for the residents of Jerusalem
 \r (Matt. 23:37-39)
 \p
 \v 31 At the same time, some Pharisees came to Jesus and said, “Go away and leave this place because King Herod wants to kill you.”
@@ -1314,7 +1317,7 @@
 \v 34 “Hey you residents of Jerusalem. You’re the ones who always kill the prophets and God’s messengers who come and prophesy in the name of My Father! There are those you kill with the sword and those you stone to death. I’ve often stretched out My hands to hug you and protect you, like a mother hen gathers and protects her chicks under her wings. But you don’t want Me to hug you.
 \v 35 Remember this, the time has almost come when God will no longer live there in His House. Believe Me that from now on you won’t see Me again until the moment I return and you say, ‘Blessed is our King who comes to represent the Lord!’”\x + \xo 13:35 \xt Ps. 118:26\x* 
 \c 14
-\s Jesus heals another sick person on the Sabbath Day
+\s1 Jesus heals another sick person on the Sabbath Day
 \p
 \v 1 One Sabbath Day Jesus went to the house of a prominent Pharisee and ate there. The members of the Pharisee group kept watching Him closely because they wanted to find some fault so that they could accuse Him of breaking the Sabbath Day regulations.
 \v 2 Then something unusual happened. A man who was bloated, whose hands and feet were swollen, was sitting right in front of Jesus!
@@ -1322,7 +1325,7 @@
 \v 4 But they were just silent. Then Jesus touched and healed the sick man and ordered him to go.
 \v 5 Then He said to each of them, “If your child or your cow falls into a well on the Sabbath Day, you would lift it out of the well too, right?!”
 \v 6 None of them was able to oppose what Jesus said.
-\s Don’t be conceited
+\s1 Don’t be conceited
 \p
 \v 7 Jesus saw how all of those who were invited tried to sit in the most honored places. Because of that He told them all this parable.
 \v 8 “When a person invites you to a wedding feast, don’t sit in the most honored place. For it’s possible that the master of the house has invited a person who has more honor than you.
@@ -1334,7 +1337,7 @@
 \v 12 Then Jesus said to the Pharisee who had invited Him, “When you hold a dinner party, don’t just invite your friends, your brothers, your relatives or your neighbors who are rich because some other time they’ll pay you back by inviting you to their party in return.
 \v 13 But when you hold a party, invite the poor, disabled, paralyzed and blind.
 \v 14 They won’t be able to repay you, but God is the one who’ll repay you and bless you. And you’ll also be repayed when the righteous are brought back to life.”
-\s The parable of a huge dinner party
+\s1 The parable of a huge dinner party
 \r (Matt. 22:1-10)
 \p
 \v 15 When one of the guests who sat there eating heard this, he said to Jesus, “Everyone who’s invited to the dinner party that will be held later on in God’s kingdom is truly blessed by God.”
@@ -1350,7 +1353,7 @@
 \v 22 Not long after that the slave came and reported, ‘Master, I’ve done what you ordered me to do, but there are still empty places.’
 \v 23 Then the master said to him, ‘Go to the main streets and the small roads outside the city. Urge everyone to come here so that my house is full.
 \v 24 And I swear that those who’ve rejected my invitation won’t come and won’t eat any of the food that was prepared for my party!’”
-\s Consequences for people who want to become followers of Jesus
+\s1 Consequences for people who want to become followers of Jesus
 \r (Matt. 5:13, 10:37-39; Mark 8:34-38, 9:50; Luke 9:23)
 \p
 \v 25 After that, many people walked along with Jesus. He turned around and saw them and said,
@@ -1370,7 +1373,7 @@
 \v 35 either for the field or as fertilizer. In the end the salt is just thrown out.
 \p “You have ears, don’t you?! So listen well!” 
 \c 15
-\s The parable about the lost sheep
+\s1 The parable about the lost sheep
 \r (Matt. 18:12-14)
 \p
 \v 1 One day tax collectors and many other people who were also known as sinners were coming to Jesus to hear His teachings.
@@ -1381,12 +1384,12 @@
 \v 5 When he has found it, he’ll gladly pick it up, put it on his shoulders and carry it home.
 \v 6 After arriving home he’ll call his friends and neighbors and say to them, ‘Rejoice with me because I’ve found my lost sheep!’
 \v 7 I’m telling you that in the same way God and all the residents of heaven will be more joyful when they see a sinful person repent than for ninety-nine righteous people who don’t need to repent.”
-\s The parable about the lost silver coin
+\s1 The parable about the lost silver coin
 \p
 \v 8 “Or if a woman has ten silver coins and one coin gets lost, she will light a lamp, of course, and sweep her house in order to search carefully for it until she finds it.
 \v 9 After she finds it, she’ll call her friends and neighbors and say, ‘Rejoice with me because I’ve found the money that I lost!’
 \v 10 I’m telling you that in the same way the angels always rejoice before God the Father when they witness a sinful person repent!”
-\s The parable about the lost younger brother and the very compassionate father
+\s1 The parable about the lost younger brother and the very compassionate father
 \p
 \v 11 Jesus said again, “There was a father who had two sons.
 \v 12 The younger son said to his father, ‘Father, give me my share of the inheritance. I don’t need to wait until you die.’ So the father divided his inheritance between his two sons.
@@ -1418,7 +1421,7 @@
 \v 31 “Then the father said, ‘That’s true, son. You’re always with me and everything I own is yours too.
 \v 32 But we should rejoice and celebrate your younger brother’s homecoming, because I thought your younger brother was lost and dead. But it turns out that he’s still alive and has come back to us.’”
 \c 16
-\s The parable of the dishonest treasurer
+\s1 The parable of the dishonest treasurer
 \p
 \v 1 Jesus said to His disciples again, “There was a rich man who had a treasurer who managed his property. The rich man heard the news that his treasurer was squandering his wealth.
 \v 2 So the rich man called his treasurer and said, ‘I’ve heard ugly reports about your work. Because of that I’m going to fire you as my treasurer. But before that, give me a report about all my property that you’ve managed.’
@@ -1443,7 +1446,7 @@
 \v 12 And if it’s obvious that you can’t be trusted to manage treasure that isn’t actually yours but belongs to God, then you won’t be allowed to own anything in heaven either.
 \p
 \v 13 “Pay attention to this example. It isn’t good for a person to have two masters because it isn’t possible for him to serve both well. He’ll certainly love and be faithful to one master but hate and not take care of the other master. In the same way you can’t be God’s servant and at the same time serve money.”
-\s Jesus points out several faults of the Pharisees
+\s1 Jesus points out several faults of the Pharisees
 \r (Matt. 5:18, 11:12-13)
 \p
 \v 14 When the Pharisees heard His teaching they made fun of Jesus because they craved money.
@@ -1453,7 +1456,7 @@
 \v 17 But the heavens and the earth will more easily disappear than for even one dot in the Law to be cancelled.
 \p
 \v 18 “Every husband who divorces his wife and has sex with or marries another woman again commits adultery. And the man who has sex with or marries a woman who’s divorced by her husband also commits adultery.”
-\s The parable of the rich man and Lazarus
+\s1 The parable of the rich man and Lazarus
 \p
 \v 19 Jesus also taught them using this parable, “There was a rich man who always wore beautiful robes made of fine cloth. He satisfied all of his desires everyday with luxurious living.
 \v 20 And there was also a beggar named Lazarus.\f + \fr 16:20 \fk Lazarus \ft The poor man Lazarus in this parable is not Lazarus, the close friend of Jesus, whom Jesus brought back to life from death. (John 11)\f* He lay by the gate of that rich man’s house everyday. Lazarus’ body was covered with pussy, rotten sores.
@@ -1475,7 +1478,7 @@
 \p
 \v 31 “But Abraham answered him, ‘If they won’t obey what’s written in the books of the Law of Moses and the prophets, they still won’t believe even if a dead man comes back to life and goes to warn them.’”
 \c 17
-\s Some advice
+\s1 Some advice
 \r (Matt. 18:6-7, 21-22; Mark 9:42)
 \p
 \v 1 Jesus said to His disciples, “In this world there will always be temptations for people to fall into sin, of course. But the person who causes those things to happen is unfortunate.
@@ -1483,18 +1486,18 @@
 \v 3 So guard yourselves! Don’t do something like that!
 \p “If your brother in the faith does wrong to you rebuke him. If he regrets his wrong forgive him.
 \v 4 In fact if he does wrong to you seven times a day, and he also comes to you seven times and says, ‘I regret doing wrong to you, so I'm asking for your forgiveness,’ you should forgive him.”
-\s Faith that can move a tree
+\s1 Faith that can move a tree
 \p
 \v 5 Then the twelve apostles said to the Lord, “Help us to believe in God more.”
 \p
 \v 6 Then the Lord said, “If your faith is only as big as a mustard seed you can say to this tree,\f + \fr 17:6 \fk tree \ft Literally, “mulberry tree.” It’s fruit is small, sweet and almost black.\f* ‘Be pulled out of the ground and be planted in the ocean,’ and the tree will obey your command.”
-\s Become a humble slave of God
+\s1 Become a humble slave of God
 \p
 \v 7 “If one of you has a slave who plows in the field or shepherds your sheep, when that slave comes home from the field, you wouldn’t say to him, ‘Come in and eat,' of course.
 \v 8 Instead you would say to the slave, ‘Prepare food for me. Put on clothes for working in the house and serve me at the dinner table until I’m done eating. After that you may eat.’
 \v 9 And you don’t need to say thanks to the slave when he has finished doing the things you commanded.
 \v 10 Each of you should be like that too. When you’ve done everything that God has commanded you, you should say, ‘I’m just an ordinary slave. I’m just doing my job.’”
-\s Ten men were healed but only one expressed thanks
+\s1 Ten men were healed but only one expressed thanks
 \p
 \v 11 While Jesus was traveling to Jerusalem He walked through a region on the border of Samaria and Galilee.
 \v 12 When He entered a village, ten men who were sick with a contagious skin disease came to Him but they stood some distance away.
@@ -1507,7 +1510,7 @@
 \v 17 Then Jesus said, “I healed ten men, right?! So why didn’t the other nine men return?
 \v 18 How sad! Only the man who isn’t a Jew returned to thank God.”
 \v 19 Then Jesus said to him, “Stand up and go. Because you believed in Me, you’ve become well.”
-\s God’s kingdom and Christ’s coming
+\s1 God’s kingdom and Christ’s coming
 \r (Matt. 16:25, 24:23-28, 37-41)
 \p
 \v 20 Some of the Pharisees asked Jesus, “When will God come to set up His kingdom?”
@@ -1537,7 +1540,7 @@
 \v 37 Then Jesus’ disciples said to Him, “Where will that happen, Lord?”
 \p He answered, “The situation later on will be like what’s often said, ‘Wherever there’s a carcass, the birds of prey will always gather there too.’”\f + \fr 17:37 \fk quote of a proverb \ft There are several interpretations of the meaning of the proverb given to Jesus’ disciples, among them: 1) Christ’s coming later will be clearly seen. 2) God’s judgment will certainly fall on people who are spiritually dead.\f*
 \c 18
-\s God will definitely answer His people’s prayers
+\s1 God will definitely answer His people’s prayers
 \p
 \v 1 Jesus told his disciples a parable that illustrates how important it was for them to keep praying and not give up.
 \v 2 He said, “There was a judge in a certain city who didn’t respect God and didn’t care about anyone at all.
@@ -1548,7 +1551,7 @@
 \v 6 Then the Lord said, “Pay attention to what the unjust judge said!
 \v 7 If that judge would help the widow’s case, God will certainly help His people whom He Himself has chosen who keep on making their requests day and night. He’ll answer their prayers without delay!
 \v 8 I’m telling you honestly. God will quickly decide all of their cases with justice. Even so, when I the Son of Man come back it isn’t certain that I will find people on this earth who still believe in Me.”
-\s The parable of how the Pharisee and the tax collector prayed
+\s1 The parable of how the Pharisee and the tax collector prayed
 \p
 \v 9 Some people who were present felt they were righteous in God’s sight and because of that they considered themselves to be better than others. So Jesus told the following parable:
 \v 10 “There were two men who went into the courtyard of God’s House to pray. One was a Pharisee and the other one was a tax collector.
@@ -1557,13 +1560,13 @@
 \p
 \v 13 “But the tax collector stood somewhat far off from the other people. He didn’t even dare look up to heaven like the Jewish custom was when praying,\f + \fr 18:13 \fk like the Jewish custom was when praying \ft These words were added so that today’s readers will understand Luke’s intent in this verse. The custom today is to bow one’s head while praying, more like the tax collector in this story, whereas the custom of the Jews of Jesus’ day was to address prayers to heaven while looking up. For sure, the Pharisee in this parable followed the custom of looking up to heaven while he prayed.\f* but with a very sad and regretful heart\f + \fr 18:13 \fk with a very sad and regretful heart \ft Literally, “while beating his chest.” In Jewish culture, beating one’s chest was a sign of much sadness, mourning and regret. See also Luke 23:48.\f* he prayed, ‘Oh God, have compassion on this sinful man!’
 \v 14 I’m telling you honestly, when those two men went home to their own houses, the prayer of the tax collector was accepted by God, not the prayer of the Pharisee. For whoever raises himself up will be humbled by God, and whoever humbles his heart will be raised up by Him.”
-\s Jesus welcomes the children
+\s1 Jesus welcomes the children
 \r (Matt. 19:13-15; Mark 10:13-16)
 \p
 \v 15 People brought their young children to Jesus so that He would touch the children and bless them. But when His disciples saw that they forbid the people harshly.
 \v 16 But Jesus called to the children and said, “Allow those children to come to Me and don’t forbid them. For the people who become citizens of God’s kingdom are like them.
 \v 17 What I’m saying is true. You must accept God’s kingdom like a child accepts something from his parents. If not, you won’t enter it.”
-\s It’s very difficult for rich people to enter God’s kingdom
+\s1 It’s very difficult for rich people to enter God’s kingdom
 \r (Matt. 19:16-30; Mark 10:17-31)
 \p
 \v 18 A Jewish leader asked Jesus, “Good teacher, what do I have to do to have eternal life?”
@@ -1587,14 +1590,14 @@
 \p
 \v 29 Jesus answered them, “What I’m telling each of you is really true. To everyone who leaves his house, his wife, his brothers and sisters, his parents or his children for the sake of God’s kingdom,
 \v 30 God will give him many times more of the same things in exchange in this life now. And God will give him eternal life in the age to come.”
-\s Jesus tells about His death
+\s1 Jesus tells about His death
 \r (Matt. 20:17-19; Mark 10:32-34)
 \p
 \v 31 Jesus gathered His twelve disciples in a private way and said to them, “We’re heading to Jerusalem now. Everything that was formerly written by the prophets about Me, the Son of Man, will happen there.
 \v 32 So according to what has been prophesied I'll be turned over to non-Jewish leaders. And they’ll insult Me, torture Me and spit on Me.
 \v 33 After they whip Me, they’ll kill Me. But I'll come back to life on the third day after I die.”
 \v 34 But His disciples didn’t understand what Jesus said at all. The meaning of His words was hidden from them.
-\s Jesus makes a blind man able to see
+\s1 Jesus makes a blind man able to see
 \r (Matt. 20:29-34; Mark 10:46-52)
 \p
 \v 35 When Jesus and His disciples were almost at the city of Jericho, there was a blind man sitting and begging at the side of the road.
@@ -1614,7 +1617,7 @@
 \p
 \v 43 At that very moment the man could see again, then he followed Jesus while praising God. And the crowd who saw what happened also praised God.
 \c 19
-\s Zacchaeus meets Jesus and repents
+\s1 Zacchaeus meets Jesus and repents
 \p
 \v 1 Then Jesus and His disciples entered the city of Jerico and continued their journey through that city.
 \v 2 There was a head tax collector in that city named Zacchaeus, who was rich.
@@ -1629,7 +1632,7 @@
 \p
 \v 9 Then while the crowd was still listening, Jesus said to him, “Today God is working to save you and your family. Now it has become clear that you’re also a descendant of Abraham!
 \v 10 For of course I, the Son of Man, was sent by God to seek and save people who’ve wandered off.”
-\s The parable about faithful and unfaithful slaves
+\s1 The parable about faithful and unfaithful slaves
 \r (Matt. 25:14-30)
 \p
 \v 11 At Jericho, Jesus’ group was nearing their destination because Jerusalem is close to Jericho. Many people thought that when Jesus arrived in Jerusalem He would quickly set up God’s kingdom and the land of Israel would be free from the colonization of Rome. Because of that, He told this parable,
@@ -1655,7 +1658,7 @@
 \p
 \v 26 The king answered, ‘I’m telling you honestly, everyone who faithfully uses what God has given to him will be given more. But from everyone who doesn’t faithfully use what was given to him, even what he has will be taken away.
 \v 27 But now regarding those who hate me and who didn’t want me to become king, bring all of them here in front of me and kill them!’”
-\s Jesus is welcomed in Jerusalem as a king
+\s1 Jesus is welcomed in Jerusalem as a king
 \r (Matt. 21:1-11; Mark 11:1-11; John 12:12-19)
 \p
 \v 28 After telling that parable, Jesus walked in front of them and continued the trip heading to Jerusalem.
@@ -1680,13 +1683,13 @@
 \v 39 Some of the Pharisees among the crowd said to Jesus, “Teacher, order your followers to be quiet!”
 \p
 \v 40 But He answered, “I’m telling you the truth. If they were quiet, then the rocks that are all along this road would shout the same words.”
-\s Jesus mourns the destruction of Jerusalem
+\s1 Jesus mourns the destruction of Jerusalem
 \p
 \v 41 As Jesus got closer to Jerusalem, He saw the city and mourned for it,
 \v 42 “How very sad you residents of Jerusalem! How good it would be if today you knew the way to make peace with God, but it’s impossible for you to understand it now!
 \v 43 For the time will come when your enemies will surround this city, pile up dirt to enter its walls and will continually attack you from all sides.
 \v 44 They’ll kill all of the residents of your city and destroy all of its walls until they’re level with the ground, so there won’t be one stone left on top of another. That will happen because you didn’t recognize the meaning of the days that are now happening, that is the time when I, as God’s representative, visited you.”
-\s Jesus in the courtyard of God’s House
+\s1 Jesus in the courtyard of God’s House
 \r (Matt. 21:12-17; Mark 11:15-19; John 2:13-22)
 \p
 \v 45 Then Jesus entered the courtyard of God's House and drove out all the merchants who were selling there.
@@ -1697,7 +1700,7 @@
 \v 47 After that, Jesus taught in the courtyard of God’s House every day, while the chief priests, Law experts and the leaders of the Jews were trying to find a way to kill Him.
 \v 48 But they didn’t find any way that they could do it because there were always a lot of people around Him who were very interested in hearing every word of His teachings. 
 \c 20
-\s Jesus is asked about His right to change the traditions of the Jews
+\s1 Jesus is asked about His right to change the traditions of the Jews
 \r (Matt. 21:23-27; Mark 11:27-33)
 \p
 \v 1 While Jesus was giving His teachings and telling the Good News about God’s kingdom to the crowd in the courtyard of God’s House, the chief priests, Law experts and leaders of the Jews came to Him.
@@ -1711,7 +1714,7 @@
 \v 7 So in the end they answered, “We don’t know.”
 \p
 \v 8 Then Jesus said to them, “If so, I won’t tell you Who gave me the right to do these things either.”
-\s A parable which shows that the Jews always reject God’s messengers
+\s1 A parable which shows that the Jews always reject God’s messengers
 \r (Matt. 21:33-46; Mark 12:1-12)
 \p
 \v 9 Jesus told this parable to the crowd. He said, “One day a land owner ordered his servants to plant a grape vine in his large vineyard. Then he rented out the garden to some tenant farmers, and he and his servants went to another land for quite a long time.
@@ -1732,7 +1735,7 @@
 \v 18 And I’m telling you, everyone who trips on that stone will be destroyed. And everyone on whom the stone falls will be completely crushed.”
 \p
 \v 19 Then the Law experts and the chief priests who were listening to Jesus realized that through this parable Jesus had said, “You Jewish leaders are like those evil tenant farmers!” So they wanted to arrest Jesus that very moment. But they were afraid of the crowd because the crowd who admired Jesus could get angry and take direct action against them.
-\s The Jewish leaders try to persuade Jesus to oppose the government of Rome
+\s1 The Jewish leaders try to persuade Jesus to oppose the government of Rome
 \r (Matt. 22:15-22; Mark 12:13-17)
 \p
 \v 20 So the Jewish leaders watched Jesus carefully because they planned to persuade Him to say something to oppose the Roman government. They sent some spies who pretended to be good people in order to present some questions to Him. If Jesus’ answer opposed the government of Rome, they planned to arrest Him immediately and hand Him over to the authority of the governor appointed by the Roman government.
@@ -1746,7 +1749,7 @@
 \v 25 Then He said to them, “If that’s so, whatever you should give to the king, give it to him! And whatever you should give to God, give it to Him!”
 \p
 \v 26 So the spies didn’t succeed in trapping Him through His own words in front of the crowd. All of them were so amazed at hearing His answer that they just became silent.
-\s People from the Sadducee group ask about coming alive again after death
+\s1 People from the Sadducee group ask about coming alive again after death
 \r (Matt. 22:23-33; Mark 12:18-27)
 \p
 \v 27 Some members of the Sadducee group\f + \fr 20:27 \fk Sadducee group \ft Most of the members of the Sadducee group were leaders of the Jewish religion, and most of them were priests. They only believed in the first five books of the Old Testament written by Moses: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. See Acts 23:8.\f* also came to Jesus. (The Sadducee group believed that no one who dies will live again.) Then they asked Him,
@@ -1766,7 +1769,7 @@
 \p
 \v 39 Then some of the Law experts said, “Teacher, your answer was very correct!”
 \v 40 And after that no one dared to test Him with questions like that anymore.
-\s Jesus shows that He isn’t just a descendant of David
+\s1 Jesus shows that He isn’t just a descendant of David
 \r (Matt. 22:41-46; Mark 12:35-37)
 \p
 \v 41 Jesus said to them, “Why is it always taught that the Christ will come as a descendant of David?
@@ -1777,21 +1780,21 @@
 \v 43 and I'll defeat all of Your enemies and make them Your slaves.”\x + \xo 20:43 \xt Ps. 110:1\x*
 \m
 \v 44 So David himself truly respected the Christ by calling Him ‘my Lord.’ If so, why is it always taught that the King of Salvation just comes from the descendants of David?”
-\s Jesus teaches not to imitate the Law experts
+\s1 Jesus teaches not to imitate the Law experts
 \r (Matt. 23:1-36; Mark 12:38-40; Luke 11:37-54)
 \p
 \v 45 While the crowd was still listening to Jesus, He said to His disciples,
 \v 46 “Watch out! Don’t imitate the Law experts. They like to walk around and show off in public wearing beautiful clothes. And while walking in the market they like it when people give them respectful greetings. And in the synagogues or at dinner parties they also like to sit in the front row seats.
 \v 47 But they usually deceive widows too, using this excuse, ‘I'll help you manage your deceased husband’s wealth.’ But they actually only pretend to help because they want to steal a lot of that wealth. And in order to cover up their evil, they pray long prayers in the synagogue so that people think they are good people. As a result of deeds like that, God will give them a very harsh punishment, for sure.”
 \c 21
-\s A poor widow gives all of her money to God
+\s1 A poor widow gives all of her money to God
 \r (Mark 12:41-44)
 \p
 \v 1 While Jesus was in the courtyard of God’s House, He observed rich people who were putting money in the offering box.
 \v 2 He also noticed a poor widow putting in two metal coins of the least value.
 \v 3 Then Jesus said, “I’m telling you the truth. The value of the offering of this poor widow is greater than the offerings of all of the other people!
 \v 4 All of those people gave a small part of the excess of their wealth, whereas this widow who is very poor gave everything she owned. She doesn’t have anything left to buy food.”
-\s Jesus teaches about the end of the age
+\s1 Jesus teaches about the end of the age
 \r (Matt. 24:1-14; Mark 13:1-13)
 \p
 \v 5 At that time there were some people talking about the complex of God’s House. They were in awe looking at the huge and wonderful stones of the building and the things offered which decorated the building.
@@ -1812,7 +1815,7 @@
 \v 17 And wherever you go there’ll be people who hate you because you believe in Me.
 \v 18 Even though they can kill your body, they really can’t do anything to you. Not even one strand of your hair will be lost!
 \v 19 You’ll gain eternal life by continuing to endure in that trouble.”
-\s The city of Jerusalem will be destroyed
+\s1 The city of Jerusalem will be destroyed
 \r (Matt. 24:15-21; Mark 13:14-19)
 \p
 \v 20 “When you see Jerusalem surrounded by soldiers, you'll know that the time has come for the city to be destroyed.
@@ -1820,7 +1823,7 @@
 \v 22 For that’s the time God will repay the evil of these people so that everything written by the prophets about that time of punishment is fulfilled.
 \v 23 At the time that disaster happens, what a pity for pregnant women and those who nurse! They’ll really suffer because it’ll be hard for them to run away. Great trouble will fall on all of the residents of this land because the Lord will show His wrath toward this people group.
 \v 24 Many will be killed with the sword, and many will be taken as captives to every land of non-Jewish people too. Then those people groups will overpower Jerusalem until the time that the Lord determined for them is finished.”
-\s Jesus teaches about His return from heaven
+\s1 Jesus teaches about His return from heaven
 \r (Matt. 24:29-35; Mark 13:24-31)
 \p
 \v 25 “There’ll be miracles in the sun, moon and stars. And all the people groups on earth will be afraid and confused because of the violence of the ocean waves which will make a loud noise like thunder.
@@ -1834,7 +1837,7 @@
 \p
 \v 32 What I’m telling you is true. All of those signs will happen while people of this age are still living.
 \v 33 All of those things will definitely take place. The sky and earth will disappear, but My teachings will last forever.”
-\s Always be ready
+\s1 Always be ready
 \p
 \v 34 “Be on guard! Don’t be too engrossed in wild parties and drunkenness. And don’t keep worrying about daily necessities so that on the last day you’re trapped!
 \v 35 Because the last day will come suddenly on all the people on earth.
@@ -1843,18 +1846,18 @@
 \v 37 Every day of that week, Jesus gave His teachings in the courtyard of God’s House. And in the evenings He went and spend the night on the Mount of Olives.
 \v 38 Then very early in the morning the whole crowd would get up and come to the courtyard of God’s House to hear Him teach.
 \c 22
-\s The Jewish leaders plan to kill Jesus
+\s1 The Jewish leaders plan to kill Jesus
 \r (Matt. 26:1-5, 14-16; Mark 14:1-2, 10-11; John 11:45-53)
 \p
 \v 1 When the Passover Celebration\f + \fr 22:1 \fk Passover Celebration \ft Literally, “Celebration of Unleavened Bread” in which these words translate just one word in the Greek language. The Celebration of Unleavened Bread begins on the Day of Passover and continues for eight days, which includes two Sabbath days. The two celebrations were combined. See Ex. 12 and the note in Luke 22:16.\f* was near,
 \v 2 the chief priests and Law experts secretly looked for a way to kill Jesus without the crowd knowing it. They were afraid of the crowd because the crowd liked Jesus and might take direct action against them.
-\s Judas sells Jesus
+\s1 Judas sells Jesus
 \p
 \v 3 Then the devil took control of Judas’ heart. He was the one from the village of Kariot who was one of Jesus' twelve disciples.
 \v 4 Because of that he met with the chief priests and the head guards of God’s House to talk about how to turn Jesus over to them.
 \v 5 They were very happy to hear that, so they agreed to give him a sum of money.
 \v 6 Judas agreed and looked for a good opportunity to turn Jesus over to them without the crowd knowing it.
-\s Passover preparations
+\s1 Passover preparations
 \r (Matt. 26:17-25; Mark 14:12-21; John 13:21-30)
 \p
 \v 7 Then the first day of the Celebration of Passover came,\f + \fr 22:7 \fk Passover \ft Literally, the “Celebration of Unleavened Bread.” See note in Luke 22:1\f* which was the day when all the Passover lambs were killed.
@@ -1867,7 +1870,7 @@
 \v 12 Then that person will show you a large room on an upper floor which is already complete with a table and other furnishings. Prepare the Passover meal for us there.”
 \p
 \v 13 So Peter and John went to Jerusalem, and they found it to be just like Jesus had told them. Then they prepared the Passover meal there.
-\s Jesus gives food to remember His body and blood
+\s1 Jesus gives food to remember His body and blood
 \r (Matt. 26:21-30; Mark 14:18-26; John 13:21-26; 1 Cor. 11:23-25)
 \p
 \v 14 When the time came, Jesus and His disciples, who were also called His apostles, sat together to celebrate the Passover meal.
@@ -1885,7 +1888,7 @@
 \v 22 I, as the Son of Man, will die of course, like what God has determined. But the man who turns Me over to those who oppose Me is unfortunate!”
 \p
 \v 23 Then His disciples were very angry and began to ask each other, “Which one of us has the heart to do that?!”
-\s Leaders should be like servants
+\s1 Leaders should be like servants
 \p
 \v 24 Then they argued with each other about who was the number one disciple among them.
 \v 25 Because of that, Jesus said to them, “In this world all kings and other rulers are happy to oppress and enslave their citizens. And even though a king oppresses his citizens, his citizens must always call him ‘the people's’ helper.’
@@ -1895,7 +1898,7 @@
 \v 28 You’re the ones who’ve stood firmly with Me in all the troubles that I’ve experienced.
 \v 29 Because of that I'll give you authority to rule with Me in the kingdom given to Me by My Father.
 \v 30 So you’ll eat and drink with Me in My kingdom, and each of you will sit on a throne to rule with Me over the twelve tribes of Israel.”\f + \fr 22:30 \fk rule... twelve tribes of Israel \ft Literally, “judge the twelve tribes of Israel.” It’s most likely that the meaning of the “twelve tribes of Israel” here includes all of God’s people who enter God’s kingdom, meaning people from every people group. (Gal. 3:26-29, 6:16; Luke 13:29) In the same way, it’s most likely that ‘judge’ in this verse means more than to just settle cases but also to rule with Christ in God’s kingdom.\f*
-\s Peter will deny Jesus
+\s1 Peter will deny Jesus
 \r (Matt. 26:31-35; Mark 14:27-31; John 13:36-38)
 \p
 \v 31 Then Jesus said, “Simon, Simon, listen well! The devil has asked permission from God to test all of you like a farmer separates the wheat from the chaff.
@@ -1904,7 +1907,7 @@
 \v 33 Then Peter said to Him, “But Lord, I’ll keep following You even if I go to prison or am killed with You.”
 \p
 \v 34 But Jesus said, “Peter, I’m telling you honestly that early in the morning, before the rooster crows, you’ll already have denied Me three times.”
-\s Be ready to face trouble
+\s1 Be ready to face trouble
 \p
 \v 35 Then Jesus said to His disciples, “Try to remember when I sent you to tell the Good News without taking a purse with money, a bag or shoes. Did you experience any lack?”
 \p They answered, “No.”
@@ -1915,7 +1918,7 @@
 \p
 \v 38 Then they said, “Oh Lord, look! There are two swords here.”
 \p So He said, “That’s enough.”
-\s Jesus prays alone in the garden of Gethsemane
+\s1 Jesus prays alone in the garden of Gethsemane
 \r (Matt. 26:36-46; Mark 14:32-42)
 \p
 \v 39 Then as was Jesus usually did, He and His disciples left Jerusalem and went to the Mount of Olives.
@@ -1927,7 +1930,7 @@
 \v 44 Because of the weight of that suffering, Jesus prayed even more sincerely, until His sweat was like drops of blood that fell to the ground.]\f + \fr 22:43-44 \fk Verses 43-44 \ft These two verses aren’t found in some of the oldest copies.\f*
 \v 45 After He finished praying, He stood up and returned to His disciples and found them sleeping. They were very sad so it was hard for them to keep their eyes open.
 \v 46 Then He said to them, “Why are you sleeping?! Wake up and pray so that none of you commits sin when tempted by the devil.”
-\s Jesus is arrested
+\s1 Jesus is arrested
 \r (Matt. 26:47-56; Mark 14:43-50; John 18:3-11)
 \p
 \v 47 While Jesus was still speaking, a crowd came. And Judas, one of His twelve disciples, led them as their guide. He came close to Jesus and hugged Him.\f + \fr 22:47 \fk hugged \ft Here and in the following verses, in a literal way, “kissed.” This was a normal way to greet friends among the Jews.\f*
@@ -1940,7 +1943,7 @@
 \p
 \v 52 Jesus said to the chief priests, the head guards of God's House and the Jewish leaders who came to arrest Him, “You think I’m an evil person, huh, so you have to bring swords and clubs here!
 \v 53 But I was there with you everyday in the courtyard of God’s House. Why weren’t you bold enough to arrest Me there?! But of course the time of darkness agrees with you because you carry out the desires of the powers of darkness.”
-\s Peter says that he doesn’t know Jesus
+\s1 Peter says that he doesn’t know Jesus
 \r (Matt. 26:57-58, 69-75; Mark 14:53-54, 66-72; John 18:12-18, 25-27)
 \p
 \v 54 After they arrested Jesus, they took Him to the house of the high priest, while Peter followed them from a distance.
@@ -1956,13 +1959,13 @@
 \v 60 But Peter said, “Sir, I don’t understand what you mean.” That very moment, as he was still speaking, a rooster crowed.
 \v 61 Then the Lord Jesus turned and looked at Peter, so he remembered that the Lord had said to him, “Early in the morning, before the rooster crows you’ll have denied Me three times.”
 \v 62 Then Peter went out of the yard of that house and wept with great sadness.
-\s The guards of God's House make fun of Jesus
+\s1 The guards of God's House make fun of Jesus
 \r (Matt. 26:67-68; Mark 14:65)
 \p
 \v 63 Then the guards of God’s House who were detaining Jesus made fun of Him by insulting and hitting Him.
 \v 64 They covered His face with a cloth and repeatedly said, “If you’re really a prophet, tell us who hit you.”
 \v 65 And there were many other words they said to insult Him.
-\s Jesus is brought to face the council of the Jewish Religious Court
+\s1 Jesus is brought to face the council of the Jewish Religious Court
 \r (Matt. 26:57-58, 69-75; Mark 14:53-54, 66-72; John 18:12-18, 25-27)
 \p
 \v 66 In the morning, the members of the Religious Court gathered, including the Jewish leaders, chief priests and Law experts. Then Jesus was brought before them.
@@ -1977,7 +1980,7 @@
 \p
 \v 71 Then they all said, “We don’t need to find any other witnesses because he himself has just now admitted it, and we heard it directly for ourselves!” 
 \c 23
-\s Govenor Pilate examines Jesus
+\s1 Govenor Pilate examines Jesus
 \r (Matt. 27:1-2, 11-14; Mark 15:1-5; John 18:28-38)
 \p
 \v 1 Then all the members of the council stood up and took Jesus to present Him to Pilate.
@@ -1992,14 +1995,14 @@
 \p
 \v 6 On hearing that, Pilate asked, “Is this man a Galilean?”
 \v 7 When he knew that Jesus came from the district of King Herod’s authority, he ordered someone to take Jesus to Herod who happened to be in Jerusalem at that time.
-\s King Herod examines Jesus
+\s1 King Herod examines Jesus
 \p
 \v 8 Herod had wanted to see Jesus for a long time because he had heard many things about Jesus. So he was very glad to see Jesus and hoped to see Him do some miracle.
 \v 9 Herod asked Him many questions but Jesus didn’t answer him at all.
 \v 10 But at the same time the chief priests and experts of the Law stood near Jesus and kept throwing accusations at Him.
 \v 11 So Herod and His soldiers also insulted Him and made fun of Him. While Herod was making fun of Jesus being a king, he ordered them to put a beautiful robe on Jesus. So while He was still wearing that robe, Herod ordered his soldiers to take Jesus back to Pilate.
 \v 12 And from that time Herod and Pilate became close friends. Before that they had hated each other.
-\s Pilate turns Jesus over to be sentenced to death
+\s1 Pilate turns Jesus over to be sentenced to death
 \r (Matt. 27:15-26; Mark 15:6-15; John 18:39–19:16)
 \p
 \v 13 Then Pilate gathered the chief priests, members of the Religious Council and the people.
@@ -2018,7 +2021,7 @@
 \v 23 But they cried more loudly to urge and demand that Jesus be crucified. And they finally won because they shouted so loudly.
 \v 24 Pilate did, in fact, give the death sentence to Jesus according to the crowd’s demand.
 \v 25 The decision wasn’t really fair, of course, because he released Barabbas, who was imprisoned for causing a riot and being involved in a murder, based only on their demands. But he turned Yesus over to them to do according to their hearts’ desire.
-\s Jesus is crucified
+\s1 Jesus is crucified
 \r (Matt. 27:32-44; Mark 15:21-32; John 19:17-27)
 \p
 \v 26 After Jesus was whipped,\f + \fr 23:26 \fk After... whipped \ft This phrase completes this story according to what’s written in Matt. 27:26-31 dan Mrk. 15:16-20. It’s likely that Luke didn’t need to write about Jesus being whipped because the readers of his day knew that people who received a death sentence by crucifixion were always whipped.\f* the Roman soldiers took Him out of the city of Jerusalem. Jesus himself was carrying His cross. But when the soldiers saw someone named Simon, who came from the city of Cyrene and just happened to enter the city, they forced\f + \fr 23:26 \fk forced \ft In all the provinces that became colonies of the Roman government, all Roman soldiers were allowed to order the people to carry anything for them. This event shows that Jesus was no longer able to carry His cross Himself.\f* him to carry Jesus’ cross while walking behind Jesus.
@@ -2046,7 +2049,7 @@
 \v 42 Then he said to Jesus, “Oh Jesus, please remember me when You begin to rule as King!”
 \p
 \v 43 Jesus answered him, “I’m telling you honestly, as of today you’ll be with Me in heaven.”
-\s Jesus dies
+\s1 Jesus dies
 \r (Matt. 27:45-56; Mark 15:33-41; John 19:28-30)
 \p
 \v 44-45 At about twelve o’clock noon, the sun suddenly stopped shining so that the whole land became dark until three o’clock in the afternoon. Another miracle that happened is that the curtain which always hung in the doorway of the Holy Room\f + \fr 23:45 \fk curtain... Holy Room \ft That curtain was a thick cloth which was always attached to the doorway of the Holy Room. Which curtain is actually meant isn’t clear, whether it was the curtain in the doorway to enter the Holy Room, or the curtain that divided the Holy Room from the Most Holy Room. The spiritual meaning of this miracle is explained in Hebrews 9,  which is that there’s nothing in the way anymore that separates man from meeting with God. (See Ex. 26:31-33; Heb. 9:1-8.)\f* in God's House tore in two by itself from top to bottom.
@@ -2056,7 +2059,7 @@
 \p
 \v 48 On seeing those things, the whole crowd that had gathered to watch the death of the three men went home with very sad and regretful.\f + \fr 23:48 \fk with very sad and regretful \ft Literally, “with (each) beating his breast.” In Jewish culture, beating one’s breast was a sign of deep sadness, mourning and regret. See also Luke 18:13.\f*
 \v 49 But all of His close friends, including the women who accompanied Him from Galilee, stood far off while witnessing all of those events.
-\s Jesus’ body is buried
+\s1 Jesus’ body is buried
 \r (Matt. 27:57-61; Mark 15:42-47; John 19:38-42)
 \p
 \v 50-51 There was a man named Joseph who came from the city of Arimathea in the province of Judea. He was a good and honest man, and he was waiting for the time when God would set up His kingdom in reality on this earth. He was a member of the Jewish Religious Council, but he hadn’t agreed with the decision and actions of that council against Jesus.
@@ -2067,7 +2070,7 @@
 \v 55 The women, who had come with Jesus from Galilee, followed Joseph from a distance, saw Jesus’ tomb, and also saw how Joseph laid the body of Jesus there.
 \v 56 Then they returned to Jerusalem to prepare fragrant spices and oil of myrrh for wrapping the body of Jesus properly, according to Jewish custom. And on the Sabbath day they rested in obedience to the Law.
 \c 24
-\s Jesus comes back to life
+\s1 Jesus comes back to life
 \r (Matt. 28:1-10; Mark 16:1-8; John 20:1-10)
 \p
 \v 1 Early in the morning on the first day of the week, the women went to Jesus’ tomb taking fragrant spices and perfumed oils which they had prepared.
@@ -2083,7 +2086,7 @@
 \v 10 The women were Mary from the village of Magdala, Joanna, Mary the mother of James, and other women. They were the ones who told Jesus’ apostles,\f + \fr 24:10 \fk apostles... \ft See the footnote for Luke 6:13.\f* that is His disciples, the things that had happened.
 \v 11 But to His disciples the news seemed like empty talk. They didn’t believe what the women told them.
 \v 12 Even so, Peter got up and ran to the tomb. While stooping down he looked into the tomb but only saw the cloth that had been wrapped around His body. Then he went home in amazement, wondering in his heart what had happened.
-\s Jesus shows Himself to two of His followers on the way to Emmaus
+\s1 Jesus shows Himself to two of His followers on the way to Emmaus
 \r (Mark 16:12-13)
 \p
 \v 13 On the same day, two of Jesus’ followers were on a trip to the village of Emmaus, which was a distance of about eleven kilometers\f + \fr 24:13 \fk eleven kilometers \ft Literally, “sixty stadion.”\f* from Jerusalem.
@@ -2117,7 +2120,7 @@
 \v 33 And at that very moment, even though it was already night, they got up and returned to Jerusalem. There they met His eleven disciples who were gathered with Jesus' other followers.
 \v 34 Then those who were in Jerusalem told the two followers, “The Lord Jesus really has come back to life and has shown Himself to Peter!”\f + \fr 24:34 \fk Peter \ft Literally, “Simon.”\f*
 \v 35 Then the two followers also told those in Jerusalem what they had experienced while they were on their way to Emmaus and how they recognized Jesus when He tore the bread.
-\s Jesus shows Himself to His followers
+\s1 Jesus shows Himself to His followers
 \r (Matt. 8:16-20; Mark 16:14-18; John 20:19-23; Acts 1:6-8)
 \p
 \v 36 While the two followers were still talking about those things, Jesus suddenly stood among them and greeted them saying, “May you feel calm at heart!”\f + \fr 24:36 \fk greeted... \ft Jesus literally said two words in Greek that mean, “Well-being to you.” It’s most likely that Jesus used Hebrew when giving this greeting, which is ‘Shalom’. In the Hebrew language, ‘Shalom’ is a word of greeting used every day. But of course in this situation, it’s most likely that Jesus also meant the root meaning of that word, which is calmness of heart.\f*
@@ -2138,10 +2141,11 @@
 \v 47 Then My messengers will announce the news of salvation to every people group, starting in Jerusalem, so that they repent and their sins are forgiven.’
 \v 48 You are the ones who’ve become the eyewitnesses whom I'll send to tell about all of those things.
 \v 49 And I'll send Him who was promised by My Father to you.\x + \xo 24:49 \xt 14:26, 15:26, 16:7; Acts 1:4\x* Stay in this city until God equips you with power from heaven.”
-\s Jesus is raised up to heaven
+\s1 Jesus is raised up to heaven
 \r (Mark 16:19-20; Acts 1:9-11)
 \p
 \v 50 Then He invited them to go out of the city of Jerusalem, and they all went near to Bethany. Then He raised His two hands to bless them.
 \v 51 While He was blessing them, He was separated from them and was raised up to heaven.
 \v 52 They all bowed down worshiping Him and then returned to Jerusalem full of joy.
 \v 53 They were always praising God, and because of that they hardly ever left the courtyard of God’s House.
+\mte9
